@@ -3,7 +3,7 @@
 **Instructor:** Jason Bryer [jason@bryer.org](mailto:jason@bryer.org)  
 **Website:** [epsy530.bryer.org](http://epsy530.bryer.org)  
 **Class Time:** Monday & Wednesday 4:15pm to 5:35pm  
-**Class Location:** 
+**Class Location:** Humanities 24  
 **Office Hours:** By appointment  
 
 ### Course Description
@@ -33,23 +33,57 @@ E = <65
 
 *NOTE: Tentative. Subject to change*
 
+Date   | Topic | Resources | Chapter
+-------|:------|:----------|:--------:
+Aug-25 |       |           | 
+Aug-27 |       |           | 
+Sep-1  | No Class - Labor Day |           | 
+Sep-3  |       |           | 
+Sep-8  |       |           | 
+Sep-10 |       |           | 
+Sep-15 |       |           | 
+Sep-17 |       |           | 
+Sep-22 |       |           | 
+Sep-24 | No Class - Rosh Hashanah|           | 
+Sep-29 |       |           | 
+Oct-1  | No Class |           | 
+Oct-6  |       |           | 
+Oct-8  |       |           | 
+Oct-13 |       |           | 
+Oct-15 |       |           | 
+Oct-20 |       |           | 
+Oct-22 |       |           | 
+Oct-27 |       |           | 
+Oct-29 |       |           | 
+Nov-3  |       |           | 
+Nov-5  |       |           | 
+Nov-10 | ? - NEAIR Conference |           | 
+Nov-12 |       |           | 
+Nov-17 |       |           | 
+Nov-19 |       |           | 
+Nov-24 |       |           | 
+Nov-26 | No Class - Thanksgiving  |           | 
+Dec-1  |       |           | 
+Dec-3  |       |           | 
+Dec-8  | Final Exam |           | 
+
 
 
 ### Textbook
 
 #### Required
 
-De Veaux, R.D., Velleman, P.F., & Bock, D.E. (2013). *Intro Stats 4th Ed.* Pearson.
-![Intro Stats](http://ecx.images-amazon.com/images/I/51dhcukukGL._SY300_.jpg)
+Diez, D.M., Barr, C.D., & Çetinkaya-Rundel, M. (2012). *OpenIntro Statistics (2nd Ed).* 
 
-The textbook should be available in the book store or on [Amazon](http://www.amazon.com/Intro-Stats-Edition-Richard-Veaux/dp/0321825276/ref=sr_1_3?ie=UTF8&qid=1375575375&sr=8-3&keywords=intro+stats).
+This is an open source textbook and can be downloaded in PDF format from the [OpenIntro](http://www.openintro.org/stat/textbook.php) website or a printed copy can be ordered from [Amazon](http://www.amazon.com/dp/1478217200).
 
 #### Recommended
 
 Kabacoff, R.I. (2011). *R in Action*. Manning Publications.  
-![R in Action](http://www.manning.com/kabacoff/kabacoff_cover150.jpg)
 
 You can find a lot of the material in *R in Action* on Kabacoff's website, [statmethods.net](http://statmethods.net/). You can receive 38% off using the ria38 promo code when ordering from [here](http://www.manning.com/kabacoff/).
+
+Matloff, N. (2011). *The Art of R Programming.* O'Reilly.
 
 
 ### Homework Assignments
