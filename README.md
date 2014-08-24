@@ -14,7 +14,7 @@ Descriptive statistics including measures of central tendency and variability, c
 
 * Final exam (30%) - In class multiple choice and take home short answers.
 * Homework (30%)
-* Projects (40%)
+* Labs (40%)
 
 #### Grade Distribution
 
@@ -32,39 +32,39 @@ E = <65
 
 *NOTE: Tentative. Subject to change*
 
-Date   | Chapter | Topic                    | Resources
--------|:-------:|:-------------------------|:----------
-Aug-25 |         | Introductions            |
-Aug-27 |   1     | Intro to Data            | [Slides](https://github.com/jbryer/EPSY530Fall2014/blob/master/Slides/Chapter1/Chp%201/chp1.pdf?raw=true)
-Sep-1  |         | No Class - Labor Day     |
-Sep-3  |   1     |                          |
-Sep-8  |   1     |                          |
-Sep-10 |         |                          |
-Sep-15 |         |                          |
-Sep-17 |         |                          |
-Sep-22 |         |                          |
-Sep-24 |         | No Class - Rosh Hashanah |
-Sep-29 |         |                          |
-Oct-1  |         | No Class                 |
-Oct-6  |         |                          |
-Oct-8  |         |                          |
-Oct-13 |         |                          |
-Oct-15 |         |                          |
-Oct-20 |         |                          |
-Oct-22 |         |                          |
-Oct-27 |         |                          |
-Oct-29 |         |                          |
-Nov-3  |         |                          |
-Nov-5  |         |                          |
-Nov-10 |         |                          |
-Nov-12 |         |                          |
-Nov-17 |         |                          |
-Nov-19 |         |                          |
-Nov-24 |         |                          |
-Nov-26 |         | No Class - Thanksgiving  |
-Dec-1  |         |                          |
-Dec-3  |         |                          |
-Dec-8  |         | Final Exam               |
+Date   | Chapter | Topic                            | Resources
+-------|:-------:|:---------------------------------|:----------
+Aug-25 |         | Introductions                    |
+Aug-27 |   1     | Intro to Data                    | [Slides](https://github.com/jbryer/EPSY530Fall2014/blob/master/Slides/Chapter1/Chp%201/chp1.pdf?raw=true)
+Sep-1  |         | *No Class - Labor Day*           |
+Sep-3  |   1     |                                  |
+Sep-8  |   1     |                                  |
+Sep-10 |   1     |                                  |
+Sep-15 |   2     | Probability                      |
+Sep-17 |   2     |                                  |
+Sep-22 |   2     |                                  |
+Sep-24 |         | *No Class - Rosh Hashanah*       |
+Sep-29 |   3     | Distributions                    |
+Oct-1  |         | *No Class*                       |
+Oct-6  |   3     |                                  |
+Oct-8  |   4     | Foundation for Inference         |
+Oct-13 |   4     |                                  |
+Oct-15 |   4     |                                  |
+Oct-20 |   5     | Inference for Numerical Data     |
+Oct-22 |   5     |                                  |
+Oct-27 |   5     |                                  |
+Oct-29 |   6     | Inference for Categorical Data   |
+Nov-3  |   6     |                                  |
+Nov-5  |   6     |                                  |
+Nov-10 |   7     | Linear Regression                |
+Nov-12 |   7     |                                  |
+Nov-17 |   7     |                                  |
+Nov-19 |   8     | Multiple Regression              |
+Nov-24 |   8     |                                  |
+Nov-26 |         | *No Class - Thanksgiving*        |
+Dec-1  |   8     | Logistic Regression              |
+Dec-3  |         | Review                           |
+Dec-8  |         | Final Exam                       |
 
 
 
@@ -94,7 +94,9 @@ You can find a lot of the material in *R in Action* on Kabacoff's website, [stat
 7. p. 330: 
 8. p. 377: 
 
-### Projects
+### Labs
+
+These mini projects will have you explore statistical topics using R. For each project, create a R Markdown file. [Here is a two page cheat sheet](https://github.com/jbryer/EPSY530Fall2014/blob/master/Resources/rmarkdown-cheatsheet.pdf?raw=true) that will be helpful. You can also create a new R Markdown file in RStudio by clicking the File > New File > R Markdown. Name your file using the following format: `LastName-X.Rmd` where X is 0 to 8 for the project number.
 
 0. [Introduction to R and RStudio](https://github.com/jbryer/EPSY530Fall2014/blob/master/Labs/0%20Intro%20R%20and%20RStudio.pdf?raw=true)
 1. [Introduction to Data](https://github.com/jbryer/EPSY530Fall2014/blob/master/Labs/1%20Intro%20to%20Data.pdf?raw=true)
@@ -107,6 +109,7 @@ You can find a lot of the material in *R in Action* on Kabacoff's website, [stat
 6. [Inference for Categorical Data](https://github.com/jbryer/EPSY530Fall2014/blob/master/Labs/6%20Inference%20for%20Categorical%20Data.pdf?raw=true)
 7. [Introduction to Linear Regression](https://github.com/jbryer/EPSY530Fall2014/blob/master/Labs/7%20Intro%20to%20Linear%20Regression.pdf?raw=true)
 8. [Multiple Linear Regerssion](https://github.com/jbryer/EPSY530Fall2014/blob/master/Labs/8%20Multiple%20Linear%20Regression.pdf?raw=true)
+
 
 ### Software
 
