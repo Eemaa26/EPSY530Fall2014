@@ -12,10 +12,9 @@ Descriptive statistics including measures of central tendency and variability, c
 
 ### Grading
 
-* Midterm exam (25%) - In class multiple choice and take home short answers.
-* Final exam (25%) - In class multiple choice and take home short answers.
-* Homework (20%)
-* Project (30%) - The project can be completed individually or in pairs. If you choose to work with a partner you are required to provide a statment that indicates you participated equally and that you understand one grade will be given for the project for both participants. The project will involve analyzing and presenting analysis of a dataset of your choosing. A list of datasets will be provided but other datasets may be used if approved by the instructor.
+* Final exam (30%) - In class multiple choice and take home short answers.
+* Homework (30%)
+* Projects (40%)
 
 #### Grade Distribution
 
@@ -57,7 +56,7 @@ Oct-27 |       |           |
 Oct-29 |       |           | 
 Nov-3  |       |           | 
 Nov-5  |       |           | 
-Nov-10 | ? - NEAIR Conference |           | 
+Nov-10 |       |           | 
 Nov-12 |       |           | 
 Nov-17 |       |           | 
 Nov-19 |       |           | 
@@ -75,7 +74,7 @@ Dec-8  | Final Exam |           |
 
 Diez, D.M., Barr, C.D., & Çetinkaya-Rundel, M. (2012). *OpenIntro Statistics (2nd Ed).* 
 
-This is an open source textbook and can be downloaded in PDF format from the [OpenIntro](http://www.openintro.org/stat/textbook.php) website or a printed copy can be ordered from [Amazon](http://www.amazon.com/dp/1478217200).
+This is an open source textbook and can be downloaded in PDF format [here](https://github.com/jbryer/EPSY530Fall2014/blob/master/Textbook/OpenIntroStatistics2Ed.pdf?raw=true), from the [OpenIntro](http://www.openintro.org/stat/textbook.php) website, or a printed copy can be ordered from [Amazon](http://www.amazon.com/dp/1478217200).
 
 #### Recommended
 
@@ -83,50 +82,28 @@ Kabacoff, R.I. (2011). *R in Action*. Manning Publications.
 
 You can find a lot of the material in *R in Action* on Kabacoff's website, [statmethods.net](http://statmethods.net/). You can receive 38% off using the ria38 promo code when ordering from [here](http://www.manning.com/kabacoff/).
 
-Matloff, N. (2011). *The Art of R Programming.* O'Reilly.
-
 
 ### Homework Assignments
 
-* Chapter 1: 9, 10, 12.
-* Chapter 2: 1, 6, 7, 10
-* Chapter 3: 1, 2, 4, 9, 10 (include link or copyof article), 20
-* Chapter 4: 3, 6, 12, 17, 18, 34
-* Chapter 5: 1, 2, 8, 12, 41
-* Chapter 6: 3, 6, 7, 14, 19
-* Chapter 7: 1, 3, 4, 5, 7, 9, 11, 28, 36, 54
-* Chapter 8: 2, 4, 6, 9, 12, 15, 22, 25
-* Chapter 9: 1, 2, 4, 15
-* Chapter 10: 2, 4, 6, 10, 16, 18
-* Chapter 11: 15, 18, 21, 22, 47
-* Chapter 12: 9, 16, 25, 28, 33
-* Chapter 13: 16, 19, 20, 26, 40
-* Chapter 14: 15, 16, 29, 30, 40, 50
-* Chapter 15: 22, 24, 29, 31, 42
-* Chapter 16: 10, 11, 17, 26, 32
-* Chapter 18: 16, 20, 29, 35, 36, 47
-* Chapter 20: 25, 28, 37, 53, 55, 63, 70
-* Chapter 21: 12, 13, 16, 23, 33, 36
 
 
-### Project
+### Projects
 
-An important part of learning statistics is to work with a real dataset. For this project, you will analyze data from one country in the 2009 Programme of International Student Assessment (PISA). This study is designed to evaluate what approximately 15-year-old students know in science, math, and reading. You can [download the report template here](https://github.com/jbryer/EPSY530Fall2013/blob/master/Project/EPSY530-Project.Rmd). For your country, do the following:
-
-1. For each variable beginning with `ST`, define what that variable is and whether it is quantiative or qualitative. [Click here to download the codebook](https://github.com/jbryer/EPSY530Fall2013/blob/master/Project/Codebook_Stu09_Dec10.pdf)
-2. Provide descriptive statistics for each `ST` variable. Use the `summary` and `sd` functions for quantitative variable and `table` for qualitative variable.
-3. Provide visualizations for the `ST` variables. Use barplots for qualitative variables and boxplots and histograms for quantitative variables.
-4. Write a paragraph describing your sample using the results from steps 2 and 3.
-5. Describe the distribution of the response variables (i.e. `reading`, `math`, and `science`). Include appropriate descriptive statistics and visualizations.
-6. Calcluate the correlation between `ReadingTime` and `reading`.
-7. Estimate a linear regression predicting `reading` from `ReadingTime`. Interpret the results.
-8. Perform a students t-test for each response variable between private and public school students. Is there a difference? Explain.
+0. [**Introduction to R and RStudio**](https://github.com/jbryer/EPSY530Fall2014/blob/master/Labs/0%20Intro%20R%20and%20RStudio.pdf?raw=true)
+1. [**Introduction to Data**](https://github.com/jbryer/EPSY530Fall2014/blob/master/Labs/1%20Intro%20to%20Data.pdf?raw=true)
+2. [**Probability**](https://github.com/jbryer/EPSY530Fall2014/blob/master/Labs/2%20Probability.pdf?raw=true)
+3. [**Distributions of Random Variables**](https://github.com/jbryer/EPSY530Fall2014/blob/master/Labs/3%20Distributions%20of%20Random%20Variables.pdf?raw=true)
+4a. [**Foundations for Statistical Inference - Sampling Distributions**](https://github.com/jbryer/EPSY530Fall2014/blob/master/Labs/4a%20Sampling%20Distributions.pdf?raw=true)
+4b. [**Foundations for Statistical Inference - Confidence Levels**](https://github.com/jbryer/EPSY530Fall2014/blob/master/Labs/4b%20Confidence%20Intervals.pdf?raw=true)
+5. [**Inference for Numerical Data**](https://github.com/jbryer/EPSY530Fall2014/blob/master/Labs/5%20Inference%20for%20Numerical%20Data.pdf?raw=true)
+6. [**Inference for Categorical Data**](https://github.com/jbryer/EPSY530Fall2014/blob/master/Labs/6%20Inference%20for%20Categorical%20Data.pdf?raw=true)
+7. [**Introduction to Linear Regression**](https://github.com/jbryer/EPSY530Fall2014/blob/master/Labs/7%20Intro%20to%20Linear%20Regression.pdf?raw=true)
+8. [**Multiple Linear Regerssion**](https://github.com/jbryer/EPSY530Fall2014/blob/master/Labs/8%20Multiple%20Linear%20Regression.pdf?raw=true)
 
 ### Software
 
-Although this course will emphasize statistical concepts, we will make occosional use of [R](http://r-project.org), an open source statistics program and language. You are free to [install R](http://cran.r-project.org/) and [RStudio](http://rstudio.com) on your own computers, but you can run R within a [Google Chrome](http://google.com/chrome) browser at [rstudio.bryer.org](http://rstudio.bryer.org). Your username and password will be provided within the first week of the semester.
+Although this course will emphasize statistical concepts, we will make use of [R](http://r-project.org), an open source statistics program and language. Be sure to [install R](http://cran.r-project.org/) and [RStudio](http://rstudio.com) on your own computers within the first week of the class.
 
-**WARNING** KEEP A LOCAL COPY OF ALL YOUR R SCRIPTS AND DATA. I cannot guarantee that the server will always retain a copy of your work. 
 
 ### Academic Integrity
 
