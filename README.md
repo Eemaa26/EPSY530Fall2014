@@ -32,51 +32,51 @@ E = <65
 
 *NOTE: Tentative. Subject to change*
 
-Date   | Topic | Resources | Chapter
--------|:------|:----------|:--------:
-Aug-25 |       |           | 
-Aug-27 |       |           | 
-Sep-1  | No Class - Labor Day |           | 
-Sep-3  |       |           | 
-Sep-8  |       |           | 
-Sep-10 |       |           | 
-Sep-15 |       |           | 
-Sep-17 |       |           | 
-Sep-22 |       |           | 
-Sep-24 | No Class - Rosh Hashanah|           | 
-Sep-29 |       |           | 
-Oct-1  | No Class |           | 
-Oct-6  |       |           | 
-Oct-8  |       |           | 
-Oct-13 |       |           | 
-Oct-15 |       |           | 
-Oct-20 |       |           | 
-Oct-22 |       |           | 
-Oct-27 |       |           | 
-Oct-29 |       |           | 
-Nov-3  |       |           | 
-Nov-5  |       |           | 
-Nov-10 |       |           | 
-Nov-12 |       |           | 
-Nov-17 |       |           | 
-Nov-19 |       |           | 
-Nov-24 |       |           | 
-Nov-26 | No Class - Thanksgiving  |           | 
-Dec-1  |       |           | 
-Dec-3  |       |           | 
-Dec-8  | Final Exam |           | 
+Date   | Chapter | Topic                    | Resources
+-------|:-------:|:-------------------------|:----------
+Aug-25 |         | Introductions            |
+Aug-27 |   1     | Intro to Data            | [Slides](https://github.com/jbryer/EPSY530Fall2014/blob/master/Slides/Chapter1/Chp%201/chp1.pdf?raw=true)
+Sep-1  |         | No Class - Labor Day     |
+Sep-3  |   1     |                          |
+Sep-8  |   1     |                          |
+Sep-10 |         |                          |
+Sep-15 |         |                          |
+Sep-17 |         |                          |
+Sep-22 |         |                          |
+Sep-24 |         | No Class - Rosh Hashanah |
+Sep-29 |         |                          |
+Oct-1  |         | No Class                 |
+Oct-6  |         |                          |
+Oct-8  |         |                          |
+Oct-13 |         |                          |
+Oct-15 |         |                          |
+Oct-20 |         |                          |
+Oct-22 |         |                          |
+Oct-27 |         |                          |
+Oct-29 |         |                          |
+Nov-3  |         |                          |
+Nov-5  |         |                          |
+Nov-10 |         |                          |
+Nov-12 |         |                          |
+Nov-17 |         |                          |
+Nov-19 |         |                          |
+Nov-24 |         |                          |
+Nov-26 |         | No Class - Thanksgiving  |
+Dec-1  |         |                          |
+Dec-3  |         |                          |
+Dec-8  |         | Final Exam               |
 
 
 
 ### Textbook
 
-#### Required
+##### Required
 
 Diez, D.M., Barr, C.D., & Çetinkaya-Rundel, M. (2012). *OpenIntro Statistics (2nd Ed).* 
 
 This is an open source textbook and can be downloaded in PDF format [here](https://github.com/jbryer/EPSY530Fall2014/blob/master/Textbook/OpenIntroStatistics2Ed.pdf?raw=true), from the [OpenIntro](http://www.openintro.org/stat/textbook.php) website, or a printed copy can be ordered from [Amazon](http://www.amazon.com/dp/1478217200).
 
-#### Recommended
+##### Recommended
 
 Kabacoff, R.I. (2011). *R in Action*. Manning Publications.  
 
@@ -85,7 +85,14 @@ You can find a lot of the material in *R in Action* on Kabacoff's website, [stat
 
 ### Homework Assignments
 
-
+1. p. 47: 
+2. p. 107: 
+3. p. 149: 
+4. p. 197: 
+5. p. 247: 
+6. p. 298: 
+7. p. 330: 
+8. p. 377: 
 
 ### Projects
 
