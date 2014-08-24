@@ -1,6 +1,6 @@
 ## EPSY 530 - Statistics I - Fall 2014
 
-**Instructor:** Jason Bryer [jason@bryer.org](mailto:jason@bryer.org)  
+**Instructor:** Jason Bryer [jason@bryer.org](mailto:jason@bryer.org?Subject=EPSY530)  
 **Website:** [epsy530.bryer.org](http://epsy530.bryer.org)  
 **Class Time:** Monday & Wednesday 4:15pm to 5:35pm  
 **Class Location:** Humanities 24  
@@ -89,16 +89,17 @@ You can find a lot of the material in *R in Action* on Kabacoff's website, [stat
 
 ### Projects
 
-0. [**Introduction to R and RStudio**](https://github.com/jbryer/EPSY530Fall2014/blob/master/Labs/0%20Intro%20R%20and%20RStudio.pdf?raw=true)
-1. [**Introduction to Data**](https://github.com/jbryer/EPSY530Fall2014/blob/master/Labs/1%20Intro%20to%20Data.pdf?raw=true)
-2. [**Probability**](https://github.com/jbryer/EPSY530Fall2014/blob/master/Labs/2%20Probability.pdf?raw=true)
-3. [**Distributions of Random Variables**](https://github.com/jbryer/EPSY530Fall2014/blob/master/Labs/3%20Distributions%20of%20Random%20Variables.pdf?raw=true)
-4a. [**Foundations for Statistical Inference - Sampling Distributions**](https://github.com/jbryer/EPSY530Fall2014/blob/master/Labs/4a%20Sampling%20Distributions.pdf?raw=true)
-4b. [**Foundations for Statistical Inference - Confidence Levels**](https://github.com/jbryer/EPSY530Fall2014/blob/master/Labs/4b%20Confidence%20Intervals.pdf?raw=true)
-5. [**Inference for Numerical Data**](https://github.com/jbryer/EPSY530Fall2014/blob/master/Labs/5%20Inference%20for%20Numerical%20Data.pdf?raw=true)
-6. [**Inference for Categorical Data**](https://github.com/jbryer/EPSY530Fall2014/blob/master/Labs/6%20Inference%20for%20Categorical%20Data.pdf?raw=true)
-7. [**Introduction to Linear Regression**](https://github.com/jbryer/EPSY530Fall2014/blob/master/Labs/7%20Intro%20to%20Linear%20Regression.pdf?raw=true)
-8. [**Multiple Linear Regerssion**](https://github.com/jbryer/EPSY530Fall2014/blob/master/Labs/8%20Multiple%20Linear%20Regression.pdf?raw=true)
+0. [Introduction to R and RStudio](https://github.com/jbryer/EPSY530Fall2014/blob/master/Labs/0%20Intro%20R%20and%20RStudio.pdf?raw=true)
+1. [Introduction to Data](https://github.com/jbryer/EPSY530Fall2014/blob/master/Labs/1%20Intro%20to%20Data.pdf?raw=true)
+2. [Probability](https://github.com/jbryer/EPSY530Fall2014/blob/master/Labs/2%20Probability.pdf?raw=true)
+3. [Distributions of Random Variables](https://github.com/jbryer/EPSY530Fall2014/blob/master/Labs/3%20Distributions%20of%20Random%20Variables.pdf?raw=true)
+4. Foundations for Statistical Inference  
+    A. [Sampling Distributions](https://github.com/jbryer/EPSY530Fall2014/blob/master/Labs/4a%20Sampling%20Distributions.pdf?raw=true)  
+    B. [Confidence Levels](https://github.com/jbryer/EPSY530Fall2014/blob/master/Labs/4b%20Confidence%20Intervals.pdf?raw=true)  
+5. [Inference for Numerical Data](https://github.com/jbryer/EPSY530Fall2014/blob/master/Labs/5%20Inference%20for%20Numerical%20Data.pdf?raw=true)
+6. [Inference for Categorical Data](https://github.com/jbryer/EPSY530Fall2014/blob/master/Labs/6%20Inference%20for%20Categorical%20Data.pdf?raw=true)
+7. [Introduction to Linear Regression](https://github.com/jbryer/EPSY530Fall2014/blob/master/Labs/7%20Intro%20to%20Linear%20Regression.pdf?raw=true)
+8. [Multiple Linear Regerssion](https://github.com/jbryer/EPSY530Fall2014/blob/master/Labs/8%20Multiple%20Linear%20Regression.pdf?raw=true)
 
 ### Software
 
