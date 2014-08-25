@@ -12,21 +12,13 @@ Descriptive statistics including measures of central tendency and variability, c
 
 ### Grading
 
-* Final exam (30%) - In class multiple choice and take home short answers.
-* Homework (30%)
-* Labs (40%)
+* Homework (25%)
+* Labs (50%)
+* Final exam (25%) - In class multiple choice and take home short answers.
 
 #### Grade Distribution
 
-A = 93+
-A- = 90-92
-B+ = 87-89
-B = 84-86 
-B- = 80-83 
-C+ = 75-79
-C = 70-74
-D = 65-69
-E = <65
+A = 93+; A- = 90-92; B+ = 87-89; B = 84-86; B- = 80-83; C+ = 75-79; C = 70-74; D = 65-69; E = <65
 
 ### Schedule
 
@@ -37,34 +29,34 @@ Date   | Chapter | Topic                            | Resources
 Aug-25 |         | Introductions                    |
 Aug-27 |   1     | Intro to Data                    | [Slides](https://github.com/jbryer/EPSY530Fall2014/blob/master/Slides/Chapter1/Chp%201/chp1.pdf?raw=true)
 Sep-1  |         | *No Class - Labor Day*           |
-Sep-3  |   1     |                                  |
+Sep-3  |   1     |                                  | Lab 0 Due
 Sep-8  |   1     |                                  |
 Sep-10 |   1     |                                  |
-Sep-15 |   2     | Probability                      |
+Sep-15 |   2     | Probability                      | Lab 1 Due
 Sep-17 |   2     |                                  |
 Sep-22 |   2     |                                  |
 Sep-24 |         | *No Class - Rosh Hashanah*       |
-Sep-29 |   3     | Distributions                    |
+Sep-29 |   3     | Distributions                    | Lab 2 Due
 Oct-1  |         | *No Class*                       |
 Oct-6  |   3     |                                  |
-Oct-8  |   4     | Foundation for Inference         |
+Oct-8  |   4     | Foundation for Inference         | Lab 3 Due
 Oct-13 |   4     |                                  |
 Oct-15 |   4     |                                  |
-Oct-20 |   5     | Inference for Numerical Data     |
+Oct-20 |   5     | Inference for Numerical Data     | Lab 4 Due
 Oct-22 |   5     |                                  |
 Oct-27 |   5     |                                  |
-Oct-29 |   6     | Inference for Categorical Data   |
+Oct-29 |   6     | Inference for Categorical Data   | Lab 5 Due
 Nov-3  |   6     |                                  |
 Nov-5  |   6     |                                  |
-Nov-10 |   7     | Linear Regression                |
+Nov-10 |   7     | Linear Regression                | Lab 6 Due
 Nov-12 |   7     |                                  |
 Nov-17 |   7     |                                  |
-Nov-19 |   8     | Multiple Regression              |
+Nov-19 |   8     | Multiple Regression              | Lab 7 Due
 Nov-24 |   8     |                                  |
 Nov-26 |         | *No Class - Thanksgiving*        |
 Dec-1  |   8     | Logistic Regression              |
-Dec-3  |         | Review                           |
-Dec-8  |         | Final Exam                       |
+Dec-3  |         | Review - Take Home Distributed   | Lab 8 Due
+Dec-8  |         | Final Exam - Take Home Due       |
 
 
 
@@ -96,19 +88,17 @@ You can find a lot of the material in *R in Action* on Kabacoff's website, [stat
 
 ### Labs
 
-These mini projects will have you explore statistical topics using R. For each project, create a R Markdown file. [Here is a two page cheat sheet](https://github.com/jbryer/EPSY530Fall2014/blob/master/Resources/rmarkdown-cheatsheet.pdf?raw=true) that will be helpful. You can also create a new R Markdown file in RStudio by clicking the File > New File > R Markdown. Name your file using the following format: `LastName-X.Rmd` where X is 0 to 8 for the project number.
+These mini projects will have you explore statistical topics using R. For each project, create a R Markdown file. [Here is a two page cheat sheet](https://github.com/jbryer/EPSY530Fall2014/blob/master/Resources/rmarkdown-cheatsheet.pdf?raw=true) that will be helpful. You can also create a new R Markdown file in RStudio by clicking the File > New File > R Markdown. Name your file using the following format: `LastName-X.Rmd` where X is 0 to 8 for the project number. You can email your projects with `EPSY530-Lab` in the subject.
 
 <ol start='0'>
 <li> <a href='https://github.com/jbryer/EPSY530Fall2014/blob/master/Labs/0%20Intro%20R%20and%20RStudio.pdf?raw=true'>Introduction to R and RStudio</a></li>
 <li> <a href='https://github.com/jbryer/EPSY530Fall2014/blob/master/Labs/1%20Intro%20to%20Data.pdf?raw=true'>Introduction to Data</a></li>
 <li> <a href='https://github.com/jbryer/EPSY530Fall2014/blob/master/Labs/2%20Probability.pdf?raw=true'>Probability</a></li>
 <li> <a href='https://github.com/jbryer/EPSY530Fall2014/blob/master/Labs/3%20Distributions%20of%20Random%20Variables.pdf?raw=true'>Distributions of Random Variables</a></li>
-<li> Foundations for Statistical Inference
-	<ol type='A'>
+<li> Foundations for Statistical Inference <ol type="A">
     <li> <a href='https://github.com/jbryer/EPSY530Fall2014/blob/master/Labs/4a%20Sampling%20Distributions.pdf?raw=true'>Sampling Distributions</a></li>
     <li> <a href='https://github.com/jbryer/EPSY530Fall2014/blob/master/Labs/4b%20Confidence%20Intervals.pdf?raw=true'>Confidence Levels</a></li>
-    </ol>
-</li>
+</ol></li>
 <li> <a href='https://github.com/jbryer/EPSY530Fall2014/blob/master/Labs/5%20Inference%20for%20Numerical%20Data.pdf?raw=true'>Inference for Numerical Data</a></li>
 <li> <a href='https://github.com/jbryer/EPSY530Fall2014/blob/master/Labs/6%20Inference%20for%20Categorical%20Data.pdf?raw=true'>Inference for Categorical Data</a></li>
 <li> <a href='https://github.com/jbryer/EPSY530Fall2014/blob/master/Labs/7%20Intro%20to%20Linear%20Regression.pdf?raw=true'>Introduction to Linear Regression</a></li>
