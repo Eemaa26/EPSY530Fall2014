@@ -77,14 +77,14 @@ You can find a lot of the material in *R in Action* on Kabacoff's website, [stat
 
 ### Homework Assignments
 
-1. p. 47: 
-2. p. 107: 
-3. p. 149: 
-4. p. 197: 
-5. p. 247: 
-6. p. 298: 
-7. p. 330: 
-8. p. 377: 
+* Chapter 1. p. 47: 2, 4, 8, 10, 12, 16 (part a only), 23, 30, 39, 47, 48
+* Chapter 2. p. 107: 
+* Chapter 3. p. 149: 
+* Chapter 4. p. 197: 
+* Chapter 5. p. 247: 
+* Chapter 6. p. 298: 
+* Chapter 7. p. 330: 
+* Chapter 8. p. 377: 
 
 ### Labs
 
