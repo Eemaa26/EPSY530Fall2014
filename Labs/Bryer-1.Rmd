@@ -47,3 +47,11 @@ plot(x=present$year, y=present$boysToGirls, type='l', xlab='Year', ylab='Ratio o
 
 #### 5. In what year did we see the most total number of births in the U.S.? You can refer to the help files or the R reference card (http://cran.r-project.org/doc/contrib/Short-refcard.pdf) to find helpful commands.
 
+```{r}
+present$total <- present$boys + present$girls
+barplot(present$total, names.arg=present$year)
+max(present$total)
+present[1,]
+present[,1]
+present[present$total == max(present$total),]
+```
