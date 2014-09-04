@@ -4,7 +4,6 @@ author: "Jason Bryer"
 output: html_document
 ---
 
-
 ```{r}
 source("http://www.openintro.org/stat/data/present.R")
 source("http://www.openintro.org/stat/data/arbuthnot.R")

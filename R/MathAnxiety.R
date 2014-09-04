@@ -1,4 +1,6 @@
 require(gdata)
+
+# Read in the data file
 mass <- read.xls('Data/MathAnxiety.xlsx')
 
 items <- c('I find math interesting.',

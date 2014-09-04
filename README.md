@@ -27,9 +27,9 @@ A = 93+; A- = 90-92; B+ = 87-89; B = 84-86; B- = 80-83; C+ = 75-79; C = 70-74; D
 Date   | Chapter | Topic                            | Resources
 -------|:-------:|:---------------------------------|:----------
 Aug-25 |         | Introductions                    |
-Aug-27 |   1     | Intro to Data                    | [Slides](https://github.com/jbryer/EPSY530Fall2014/blob/master/Slides/Chapter1/Chp%201/chp1.pdf?raw=true)
+Aug-27 |   1     | Intro to Data (1.1 to 1.5)       | [Slides](https://github.com/jbryer/EPSY530Fall2014/blob/master/Slides/Chapter1/Chp%201/chp1.pdf?raw=true)
 Sep-1  |         | *No Class - Labor Day*           |
-Sep-3  |   1     |                                  | Lab 0 Due
+Sep-3  |   1     | Intro to Data (1.6 to    )       | Lab 0 Due
 Sep-8  |   1     |                                  |
 Sep-10 |   1     |                                  |
 Sep-15 |   2     | Probability                      | Lab 1 Due
