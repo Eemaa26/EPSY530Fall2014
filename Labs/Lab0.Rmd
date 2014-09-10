@@ -1,5 +1,5 @@
 ---
-title: "Introduction to R and RStudio"
+title: "Lab 0: Introduction to R and RStudio"
 author: "Jason Bryer"
 output: html_document
 ---
