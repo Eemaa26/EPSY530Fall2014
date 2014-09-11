@@ -88,7 +88,7 @@ You can find a lot of the material in *R in Action* on Kabacoff's website, [stat
 
 ### Labs
 
-These mini projects will have you explore statistical topics using R. For each project, create a R Markdown file (you can download the template for each lab below). Name your file using the following format: `LastName-X.Rmd` where X is 0 to 8 for the project number. You can email your projects with `EPSY530-Lab` in the subject.
+These mini projects will have you explore statistical topics using R. For each project, create a R Markdown file (you can download the template for each lab below by right clicking and choosing "Save Link As..."). Name your file using the following format: `LastName-X.Rmd` where X is 0 to 8 for the project number. You can email your projects with `EPSY530-Lab` in the subject.
 
 
 <ol start='0'>
@@ -105,16 +105,6 @@ These mini projects will have you explore statistical topics using R. For each p
 <li> <a href='https://github.com/jbryer/EPSY530Fall2014/blob/master/Labs/7%20Intro%20to%20Linear%20Regression.pdf?raw=true'>Introduction to Linear Regression</a> (<a href='https://github.com/jbryer/EPSY530Fall2014/raw/master/Labs/Lab7.Rmd'>Template</a>)</li>
 <li> <a href='https://github.com/jbryer/EPSY530Fall2014/blob/master/Labs/8%20Multiple%20Linear%20Regression.pdf?raw=true'>Multiple Linear Regerssion</a> (<a href='https://github.com/jbryer/EPSY530Fall2014/raw/master/Labs/Lab8.Rmd'>Template</a>)</li>
 </ol>
-
-Here are some resources to help you learn and use R Markdown:
-
-* [O'Reilly Try R](http://tryr.codeschool.com/). Great tutorial on R where you can try R commands directly from the web browser.
-* [Two page cheat sheet](https://github.com/jbryer/EPSY530Fall2014/blob/master/Resources/rmarkdown-cheatsheet.pdf?raw=true). 
-* [Markdown Basics](http://daringfireball.net/projects/markdown/basics). Markdown is a way of formatting plain text documents mostly for the web. However, it has become for other writing tasks too. It has become popular because it focusses on writing and not formatting. The formatting is taken care later. The [Markdown Basics](http://daringfireball.net/projects/markdown/basics) provides a nice introduction to Markdown.
-* [The R Markdown Website](http://rmarkdown.rstudio.com/) has a nice introduction on how Markdown is extended to allow for the inclusion of R code and output.
-* [Video Introduction](https://www.youtube.com/watch?v=cFe1UJrj7lc). This short video (under 4 minutes) was recorded with an older version, so not all of the features and dialog boxes will look the same, but may be helpful.
-* [RStudio Video on RMarkdown](http://vimeo.com/94181521) - This 26 minute video talks about some updates to RMarkdown.
-* [Video Overview of RStudio](http://vimeo.com/97166163)
 
 
 ### Software
@@ -135,6 +125,17 @@ install.packages(c('openintro','OIdata','devtools','ggplot2','psych','reshape2',
 				   'knitr','markdown'), repos='http://cran.r-project.org')
 devtools::install_github("seankross/lego")
 ```
+
+Here are some resources to help you learn and use R Markdown:
+
+* [O'Reilly Try R](http://tryr.codeschool.com/). Great tutorial on R where you can try R commands directly from the web browser.
+* [Two page cheat sheet](https://github.com/jbryer/EPSY530Fall2014/blob/master/Resources/rmarkdown-cheatsheet.pdf?raw=true). 
+* [Markdown Basics](http://daringfireball.net/projects/markdown/basics). Markdown is a way of formatting plain text documents mostly for the web. However, it has become for other writing tasks too. It has become popular because it focusses on writing and not formatting. The formatting is taken care later. The [Markdown Basics](http://daringfireball.net/projects/markdown/basics) provides a nice introduction to Markdown.
+* [The R Markdown Website](http://rmarkdown.rstudio.com/) has a nice introduction on how Markdown is extended to allow for the inclusion of R code and output.
+* [Video Introduction](https://www.youtube.com/watch?v=cFe1UJrj7lc). This short video (under 4 minutes) was recorded with an older version, so not all of the features and dialog boxes will look the same, but may be helpful.
+* [RStudio Video on RMarkdown](http://vimeo.com/94181521) - This 26 minute video talks about some updates to RMarkdown.
+* [Video Overview of RStudio](http://vimeo.com/97166163)
+
 
 ### Academic Integrity
 
