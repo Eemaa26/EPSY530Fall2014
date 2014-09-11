@@ -1,0 +1,36 @@
+---
+title: 'Lab 6: Inference for Categorical Data'
+author: ''
+output: html_document
+---
+	
+```{r}
+￼download.file("http://www.openintro.org/stat/data/atheism.RData", destfile = "atheism.RData
+load("atheism.RData")
+```
+
+The question of atheism was asked by WIN-Gallup International in a similar survey that was conducted in 2005. Table 4 on page 13 of the report summarizes survey results from 2005 and 2012 for 39 countries.
+
+#### 1. Answer the following two questions using the inference function. As always, write out the hy- potheses for any tests you conduct and outline the status of the conditions for inference.
+
+(a) Is there convincing evidence that Spain has seen a change in its atheism index between 2005 and 2012?  
+Hint: Create a new data set for respondents from Spain. Then use their responses as the first input on the inference, and use year as the grouping variable.
+
+
+
+(b) Is there convincing evidence that the United States has seen a change in its atheism index between 2005 and 2012?
+
+
+
+#### 2. If in fact there has been no change in the atheism index in the countries listed in Table 4, in how many of those countries would you expect to detect a change (at a significance level of 0.05) simply by chance?  
+Hint: Look in the textbook index under Type 1 error.
+
+
+
+#### 3. Suppose you’re hired by the local government to estimate the proportion of residents that attend a religious service on a weekly basis. According to the guidelines, the estimate must have a margin of error no greater than 1% with 95% confidence. You have no idea what to expect for p. How many people would you have to sample to ensure that you are within the guidelines?  
+Hint: Refer to your plot of the relationship between p and margin of error. Do not use the data set to answer this question.
+
+
+
+#### 4. What concepts from the textbook are covered in this lab? What concepts, if any, are not covered in the textbook? Have you seen these concepts elsewhere, e.g. lecture, discussion section, previous labs, or homework problems? Be specific in your answer.
+

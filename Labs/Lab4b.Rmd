@@ -1,0 +1,31 @@
+---
+title: 'Lab 4B: Foundations for statistical inference - Confidence levels'
+author: ''
+output: html_document
+---
+	
+```{r}
+download.file("http://www.openintro.org/stat/data/ames.RData", destfile = "ames.RData")
+load("ames.RData")
+```
+
+#### 1. Using the following function (which was downloaded with the data set), plot all intervals. What proportion of your confidence intervals include the true population mean? Is this proportion exactly equal to the confidence level? If not, explain why (This figure should look familiar (See Section 4.2.2.).
+
+```{r}
+plot_ci(lower_vector, upper_vector, mean(population))
+```
+
+
+
+#### 2. Pick a confidence level of your choosing, provided it is not 95%. What is the appropriate critical value?
+
+
+
+#### 3. Calculate 50 confidence intervals at the confidence level you chose in the previous question. You do not need to obtain new samples, simply calculate new intervals based on the sample means and standard deviations you have already collected. Using the plot ci function, plot all intervals and calculate the proportion of intervals that include the true population mean. How does this percentage compare to the confidence level level selected for the intervals?
+
+
+
+#### 4. What concepts from the textbook are covered in this lab? What concepts, if any, are not covered in the textbook? Have you seen these concepts elsewhere, e.g. lecture, discussion section, previous labs, or homework problems? Be specific in your answer.
+
+
+

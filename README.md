@@ -27,13 +27,13 @@ A = 93+; A- = 90-92; B+ = 87-89; B = 84-86; B- = 80-83; C+ = 75-79; C = 70-74; D
 Date   | Chapter | Topic                            | Resources
 -------|:-------:|:---------------------------------|:----------
 Aug-25 |         | Introductions                    |
-Aug-27 |   1     | Intro to Data (1.1 to 1.5)       | [Slides](https://github.com/jbryer/EPSY530Fall2014/blob/master/Slides/Chapter1/Chp%201/chp1.pdf?raw=true)
+Aug-27 |   1     | Intro to Data (1.1 to 1.2)       | [Slides](https://github.com/jbryer/EPSY530Fall2014/blob/master/Slides/Chapter1/Chp%201/chp1.pdf?raw=true)
 Sep-1  |         | *No Class - Labor Day*           |
-Sep-3  |   1     | Intro to Data (1.6 to    )       | 
-Sep-8  |   1     |                                  | Lab 0 Due
+Sep-3  |   1     | Intro to Data (1.3)              | 
+Sep-8  |   1     | Intro to Data (1.4 to 1.5)       | Lab 0 Due
 Sep-10 |   1     | Working Lab                      |
-Sep-15 |   1     |                                  | 
-Sep-17 |   2     | Probability                      | Lab 1 Due
+Sep-15 |   1     | Intro to data (1.6 to 1.8)       | 
+Sep-17 |   2     | Probability (2.1 to )            | Lab 1 Due
 Sep-22 |   2     |                                  |
 Sep-24 |         | *No Class - Rosh Hashanah*       |
 Sep-29 |   3     | Distributions                    | Lab 2 Due
@@ -77,8 +77,8 @@ You can find a lot of the material in *R in Action* on Kabacoff's website, [stat
 
 ### Homework Assignments
 
-* Chapter 1. p. 47: 2, 4, 8, 10, 12, 16 (part a only), 23, 30, 39, 47, 48
-* Chapter 2. p. 107: 
+* Chapter 1. p. 47: 1.2, 1.4, 1.8, 1.10, 1.12, 1.16 (part a only), 1.23, 1.30, 1.39, 1.47, 1.48
+* Chapter 2. p. 107: 2.1, 2.2, 2.6, 2.8, 2.11, 2.12, 2.15, 2.17, 2.21, 2.28, 2.46
 * Chapter 3. p. 149: 
 * Chapter 4. p. 197: 
 * Chapter 5. p. 247: 
@@ -88,27 +88,52 @@ You can find a lot of the material in *R in Action* on Kabacoff's website, [stat
 
 ### Labs
 
-These mini projects will have you explore statistical topics using R. For each project, create a R Markdown file. [Here is a two page cheat sheet](https://github.com/jbryer/EPSY530Fall2014/blob/master/Resources/rmarkdown-cheatsheet.pdf?raw=true) that will be helpful. You can also create a new R Markdown file in RStudio by clicking the File > New File > R Markdown. Name your file using the following format: `LastName-X.Rmd` where X is 0 to 8 for the project number. You can email your projects with `EPSY530-Lab` in the subject.
+These mini projects will have you explore statistical topics using R. For each project, create a R Markdown file (you can download the template for each lab below). Name your file using the following format: `LastName-X.Rmd` where X is 0 to 8 for the project number. You can email your projects with `EPSY530-Lab` in the subject.
+
+Here are some resources to help you learn and use R Markdown:
+
+* [O'Reilly Try R](http://tryr.codeschool.com/). Great tutorial on R where you can try R commands directly from the web browser.
+* [Two page cheat sheet](https://github.com/jbryer/EPSY530Fall2014/blob/master/Resources/rmarkdown-cheatsheet.pdf?raw=true). 
+* [Markdown Basics](http://daringfireball.net/projects/markdown/basics). Markdown is a way of formatting plain text documents mostly for the web. However, it has become for other writing tasks too. It has become popular because it focusses on writing and not formatting. The formatting is taken care later. The [Markdown Basics](http://daringfireball.net/projects/markdown/basics) provides a nice introduction to Markdown.
+* [The R Markdown Website](http://rmarkdown.rstudio.com/) has a nice introduction on how Markdown is extended to allow for the inclusion of R code and output.
+* [Video Introduction](https://www.youtube.com/watch?v=cFe1UJrj7lc). This short video (under 4 minutes) was recorded with an older version, so not all of the features and dialog boxes will look the same, but may be helpful.
+* [RStudio Video on RMarkdown](http://vimeo.com/94181521) - This 26 minute video talks about some updates to RMarkdown.
+* [Video Overview of RStudio](http://vimeo.com/97166163)
+
 
 <ol start='0'>
-<li> <a href='https://github.com/jbryer/EPSY530Fall2014/blob/master/Labs/0%20Intro%20R%20and%20RStudio.pdf?raw=true'>Introduction to R and RStudio</a></li>
-<li> <a href='https://github.com/jbryer/EPSY530Fall2014/blob/master/Labs/1%20Intro%20to%20Data.pdf?raw=true'>Introduction to Data</a></li>
-<li> <a href='https://github.com/jbryer/EPSY530Fall2014/blob/master/Labs/2%20Probability.pdf?raw=true'>Probability</a></li>
-<li> <a href='https://github.com/jbryer/EPSY530Fall2014/blob/master/Labs/3%20Distributions%20of%20Random%20Variables.pdf?raw=true'>Distributions of Random Variables</a></li>
+<li> <a href='https://github.com/jbryer/EPSY530Fall2014/blob/master/Labs/0%20Intro%20R%20and%20RStudio.pdf?raw=true'>Introduction to R and RStudio</a> (<a href='https://github.com/jbryer/EPSY530Fall2014/raw/master/Labs/Lab0.Rmd'>Template</a>)</li>
+<li> <a href='https://github.com/jbryer/EPSY530Fall2014/blob/master/Labs/1%20Intro%20to%20Data.pdf?raw=true'>Introduction to Data</a> (<a href='https://github.com/jbryer/EPSY530Fall2014/raw/master/Labs/Lab1.Rmd'>Template</a>)</li>
+<li> <a href='https://github.com/jbryer/EPSY530Fall2014/blob/master/Labs/2%20Probability.pdf?raw=true'>Probability</a> (<a href='https://github.com/jbryer/EPSY530Fall2014/raw/master/Labs/Lab2.Rmd'>Template</a>)</li>
+<li> <a href='https://github.com/jbryer/EPSY530Fall2014/blob/master/Labs/3%20Distributions%20of%20Random%20Variables.pdf?raw=true'>Distributions of Random Variables</a> (<a href='https://github.com/jbryer/EPSY530Fall2014/raw/master/Labs/Lab3.Rmd'>Template</a>)</li>
 <li> Foundations for Statistical Inference <ol type="A">
-    <li> <a href='https://github.com/jbryer/EPSY530Fall2014/blob/master/Labs/4a%20Sampling%20Distributions.pdf?raw=true'>Sampling Distributions</a></li>
-    <li> <a href='https://github.com/jbryer/EPSY530Fall2014/blob/master/Labs/4b%20Confidence%20Intervals.pdf?raw=true'>Confidence Levels</a></li>
+    <li> <a href='https://github.com/jbryer/EPSY530Fall2014/blob/master/Labs/4a%20Sampling%20Distributions.pdf?raw=true'>Sampling Distributions</a> (<a href='https://github.com/jbryer/EPSY530Fall2014/raw/master/Labs/Lab4a.Rmd'>Template</a>)</li>
+    <li> <a href='https://github.com/jbryer/EPSY530Fall2014/blob/master/Labs/4b%20Confidence%20Intervals.pdf?raw=true'>Confidence Levels</a> (<a href='https://github.com/jbryer/EPSY530Fall2014/raw/master/Labs/Lab4b.Rmd'>Template</a>)</li>
 </ol></li>
-<li> <a href='https://github.com/jbryer/EPSY530Fall2014/blob/master/Labs/5%20Inference%20for%20Numerical%20Data.pdf?raw=true'>Inference for Numerical Data</a></li>
-<li> <a href='https://github.com/jbryer/EPSY530Fall2014/blob/master/Labs/6%20Inference%20for%20Categorical%20Data.pdf?raw=true'>Inference for Categorical Data</a></li>
-<li> <a href='https://github.com/jbryer/EPSY530Fall2014/blob/master/Labs/7%20Intro%20to%20Linear%20Regression.pdf?raw=true'>Introduction to Linear Regression</a></li>
-<li> <a href='https://github.com/jbryer/EPSY530Fall2014/blob/master/Labs/8%20Multiple%20Linear%20Regression.pdf?raw=true'>Multiple Linear Regerssion</a></li>
+<li> <a href='https://github.com/jbryer/EPSY530Fall2014/blob/master/Labs/5%20Inference%20for%20Numerical%20Data.pdf?raw=true'>Inference for Numerical Data</a> (<a href='https://github.com/jbryer/EPSY530Fall2014/raw/master/Labs/Lab5.Rmd'>Template</a>)</li>
+<li> <a href='https://github.com/jbryer/EPSY530Fall2014/blob/master/Labs/6%20Inference%20for%20Categorical%20Data.pdf?raw=true'>Inference for Categorical Data</a> (<a href='https://github.com/jbryer/EPSY530Fall2014/raw/master/Labs/Lab6.Rmd'>Template</a>)</li>
+<li> <a href='https://github.com/jbryer/EPSY530Fall2014/blob/master/Labs/7%20Intro%20to%20Linear%20Regression.pdf?raw=true'>Introduction to Linear Regression</a> (<a href='https://github.com/jbryer/EPSY530Fall2014/raw/master/Labs/Lab7.Rmd'>Template</a>)</li>
+<li> <a href='https://github.com/jbryer/EPSY530Fall2014/blob/master/Labs/8%20Multiple%20Linear%20Regression.pdf?raw=true'>Multiple Linear Regerssion</a> (<a href='https://github.com/jbryer/EPSY530Fall2014/raw/master/Labs/Lab8.Rmd'>Template</a>)</li>
 </ol>
 
 ### Software
 
 Although this course will emphasize statistical concepts, we will make use of [R](http://r-project.org), an open source statistics program and language. Be sure to [install R](http://cran.r-project.org/) and [RStudio](http://rstudio.com) on your own computers within the first week of the class.
 
+* R - [Windows](http://cran.r-project.org/bin/windows/base/) or [Mac](http://cran.r-project.org/bin/macosx/)
+* RStudio - [Download Windows or Mac version from here](http://www.rstudio.com/products/rstudio/download/)
+
+If using Windows, you also need to download and install these:
+* [RTools](http://cran.r-project.org/bin/windows/Rtools/)
+* [ActivePerl](http://www.activestate.com/activeperl/downloads/thank-you?dl=http://downloads.activestate.com/ActivePerl/releases/5.16.3.1603/ActivePerl-5.16.3.1603-MSWin32-x86-296746.msi)
+
+Once everything is installed, execute the following command in RStudio to install the packages we will use for this class (you can copy-and-paste):
+
+```
+install.packages(c('openintro','OIdata','devtools','ggplot2','psych','reshape2',
+				   'knitr','markdown'), repos='http://cran.r-project.org')
+devtools::install_github("seankross/lego")
+```
 
 ### Academic Integrity
 

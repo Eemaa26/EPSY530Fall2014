@@ -1,0 +1,34 @@
+---
+title: 'Lab 3: Distributions of random variables'
+author: ''
+output: html_document
+---
+	
+```{r}
+download.file("http://www.openintro.org/stat/data/bdims.RData", destfile = "bdims.RData")
+load("bdims.RData")
+```
+
+#### 1. Now let’s consider some of the other variables in the body dimensions data set. Using the figures on the next page, match the histogram to its normal probability plot. All of the variables have been standardized (first subtract the mean, then divide by the standard deviation), so the units won’t be of any help. If you are uncertain based on these figures, generate the plots in R to check.
+
+(a) The histogram for female biiliac (pelvic) diameter (bii.di) belongs to normal probability plot letter ____.
+
+
+(b) The histogram for female elbow diameter (elb.di) belongs to normal probability plot letter ____.
+
+(c) The histogram for general age (age) belongs to normal probability plot letter ____.
+
+(d) The histogram for female chest depth (che.de) belongs to normal probability plot letter ____.
+
+
+
+#### 2. Note that normal probability plots C and D have a slight stepwise pattern. Why do you think this is the case?
+
+
+
+#### 3. As you can see, normal probability plots can be used both to assess normality and visualize skewness. Make a normal probability plot for female knee diameter (kne.di). Based on this normal probability plot, is this variable left skewed, symmetric, or right skewed? Use a histogram to confirm your findings.
+
+
+
+#### 4. What concepts from the textbook are covered in this lab? What concepts, if any, are not covered in the textbook? Have you seen these concepts elsewhere, e.g. lecture, discussion section, previous labs, or homework problems? Be specific in your answer.
+

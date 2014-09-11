@@ -1,0 +1,32 @@
+---
+title: 'Lab 4A: Foundations for statistical inference - Sampling distributions'
+author: ''
+output: html_document
+---
+	
+```{r}
+download.file("http://www.openintro.org/stat/data/ames.RData", destfile = "ames.RData")
+load("ames.RData")
+```
+
+
+So far, we have only focused on estimating the mean living area in homes in Ames. Now you’ll try to estimate the mean home price.
+
+#### 1. Take a random sample of size 50 from price. Using this sample, what is your best point estimate of the population mean?
+
+
+
+#### 2. Since you have access to the population, simulate the sampling distribution for x ̄price by taking 5000 samples from the population of size 50 and computing 5000 sample means. Store these means in a vector called sample means50. Plot the data, then describe the shape of this sampling distribution. Based on this sampling distribution, what would you guess the mean home price of the population to be? Finally, calculate and report the population mean.
+
+
+
+#### 3. Change your sample size from 50 to 150, then compute the sampling distribution using the same method as above, and store these means in a new vector called sample means150. Describe the shape of this sampling distribution, and compare it to the sampling distribution for a sample size of 50. Based on this sampling distribution, what would you guess to be the mean sale price of homes in Ames?
+
+
+
+#### 4. Of the sampling distributions from 2 and 3, which has a smaller spread? If we’re concerned with making estimates that are more often close to the true value, would we prefer a distribution with a large or small spread?
+
+
+
+#### 5. What concepts from the textbook are covered in this lab? What concepts, if any, are not covered in the textbook? Have you seen these concepts elsewhere, e.g. lecture, discussion section, previous labs, or homework problems? Be specific in your answer.
+
