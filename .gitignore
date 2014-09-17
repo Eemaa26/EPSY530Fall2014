@@ -17,3 +17,21 @@
 /Labs/Lab1.html
 
 /Students/
+
+*.log
+
+*.aux
+
+*.nav
+
+*.out
+
+*.snm
+
+*.synctex.gz
+
+*.toc
+
+*.vrb
+
+.Rapp.history
