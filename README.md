@@ -33,8 +33,8 @@ Sep-3  |   1     | Intro to Data (1.3)              |
 Sep-8  |   1     | Intro to Data (1.4 to 1.5)       | Lab 0 Due
 Sep-10 |   1     | Working Lab                      |
 Sep-15 |   1     | Intro to data (1.6 to 1.8)       | 
-Sep-17 |   2     | Probability (2.1 to )            | Lab 1 Due
-Sep-22 |   2     |                                  |
+Sep-17 |   2     | Probability (2.1 to )            | [Slides](https://github.com/jbryer/EPSY530Fall2014/blob/master/Slides/Chapter2/Chp%202/chp2.pdf?raw=true)
+Sep-22 |   2     |                                  | Lab 1 Due
 Sep-24 |         | *No Class - Rosh Hashanah*       |
 Sep-29 |   3     | Distributions                    | Lab 2 Due
 Oct-1  |         | *No Class*                       |
