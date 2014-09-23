@@ -33,10 +33,10 @@ Sep-3  |   1     | Intro to Data (1.3)              |
 Sep-8  |   1     | Intro to Data (1.4 to 1.5)       | Lab 0 Due
 Sep-10 |   1     | Working Lab                      |
 Sep-15 |   1     | Intro to data (1.6 to 1.8)       | 
-Sep-17 |   2     | Probability (2.1 to )            | [Slides](https://github.com/jbryer/EPSY530Fall2014/blob/master/Slides/Chapter2/Chp%202/chp2.pdf?raw=true)
-Sep-22 |   2     |                                  | Lab 1 Due
+Sep-17 |   2     | Probability (2.1 to 2.2)         | [Slides](https://github.com/jbryer/EPSY530Fall2014/blob/master/Slides/Chapter2/Chp%202/chp2.pdf?raw=true)
+Sep-22 |   2     | Probability (2.3 to 2.5)         | Lab 1 Due
 Sep-24 |         | *No Class - Rosh Hashanah*       |
-Sep-29 |   3     | Distributions                    | Lab 2 Due
+Sep-29 |   3     | Distributions (3.1 to )          | Lab 2 Due
 Oct-1  |         | *No Class*                       |
 Oct-6  |   3     |                                  |
 Oct-8  |   4     | Foundation for Inference         | Lab 3 Due
@@ -79,7 +79,7 @@ You can find a lot of the material in *R in Action* on Kabacoff's website, [stat
 
 * Chapter 1. p. 47: 1.2, 1.4, 1.8, 1.10, 1.12, 1.16 (part a only), 1.23, 1.30, 1.39, 1.47, 1.48
 * Chapter 2. p. 107: 2.1, 2.2, 2.6, 2.8, 2.11, 2.12, 2.15, 2.17, 2.21, 2.28, 2.46
-* Chapter 3. p. 149: 
+* Chapter 3. p. 149: 3.1, 3.3, 3.5, 3.10, 3.16, 3.18, 3.19
 * Chapter 4. p. 197: 
 * Chapter 5. p. 247: 
 * Chapter 6. p. 298: 
