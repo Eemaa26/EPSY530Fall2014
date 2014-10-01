@@ -31,7 +31,7 @@ Aug-27 |   1     | Intro to Data (1.1 to 1.2)       | [Slides](https://github.co
 Sep-1  |         | *No Class - Labor Day*           |
 Sep-3  |   1     | Intro to Data (1.3)              | 
 Sep-8  |   1     | Intro to Data (1.4 to 1.5)       | Lab 0 Due
-Sep-10 |   1     | Working Lab                      |
+Sep-10 |         | Working Lab                      |
 Sep-15 |   1     | Intro to data (1.6 to 1.8)       | 
 Sep-17 |   2     | Probability (2.1 to 2.2)         | [Slides](https://github.com/jbryer/EPSY530Fall2014/blob/master/Slides/Chapter2/Chp%202/chp2.pdf?raw=true)
 Sep-22 |   2     | Probability (2.3 to 2.5)         | Lab 1 Due
@@ -97,7 +97,7 @@ These mini projects will have you explore statistical topics using R. For each p
 <li> <a href='https://github.com/jbryer/EPSY530Fall2014/blob/master/Labs/2%20Probability.pdf?raw=true'>Probability</a> (<a href='https://github.com/jbryer/EPSY530Fall2014/raw/master/Labs/Lab2.Rmd'>Template</a>)</li>
 <li> <a href='https://github.com/jbryer/EPSY530Fall2014/blob/master/Labs/3%20Distributions%20of%20Random%20Variables.pdf?raw=true'>Distributions of Random Variables</a> (<a href='https://github.com/jbryer/EPSY530Fall2014/raw/master/Labs/Lab3.Rmd'>Template</a>, <a href='http://htmlpreview.github.io/?https://github.com/jbryer/EPSY530Fall2014/blob/master/Labs/Lab3.html'>Preview</a>)</li>
 <li> Foundations for Statistical Inference <ol type="A">
-    <li> <a href='https://github.com/jbryer/EPSY530Fall2014/blob/master/Labs/4a%20Sampling%20Distributions.pdf?raw=true'>Sampling Distributions</a> (<a href='https://github.com/jbryer/EPSY530Fall2014/raw/master/Labs/Lab4a.Rmd'>Template</a>)</li>
+    <li> <a href='https://github.com/jbryer/EPSY530Fall2014/blob/master/Labs/4a%20Sampling%20Distributions.pdf?raw=true'>Sampling Distributions</a> (<a href='https://github.com/jbryer/EPSY530Fall2014/raw/master/Labs/Lab4a.Rmd'>Template</a>, <a href='http://htmlpreview.github.io/?https://github.com/jbryer/EPSY530Fall2014/blob/master/Labs/Lab4a.html'>Preview</a>)</li>
     <li> <a href='https://github.com/jbryer/EPSY530Fall2014/blob/master/Labs/4b%20Confidence%20Intervals.pdf?raw=true'>Confidence Levels</a> (<a href='https://github.com/jbryer/EPSY530Fall2014/raw/master/Labs/Lab4b.Rmd'>Template</a>)</li>
 </ol></li>
 <li> <a href='https://github.com/jbryer/EPSY530Fall2014/blob/master/Labs/5%20Inference%20for%20Numerical%20Data.pdf?raw=true'>Inference for Numerical Data</a> (<a href='https://github.com/jbryer/EPSY530Fall2014/raw/master/Labs/Lab5.Rmd'>Template</a>)</li>
