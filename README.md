@@ -36,7 +36,7 @@ Sep-15 |   1     | Intro to data (1.6 to 1.8)       |
 Sep-17 |   2     | Probability (2.1 to 2.2)         | [Slides](https://github.com/jbryer/EPSY530Fall2014/blob/master/Slides/Chapter2/Chp%202/chp2.pdf?raw=true)
 Sep-22 |   2     | Probability (2.3 to 2.5)         | Lab 1 Due
 Sep-24 |         | *No Class - Rosh Hashanah*       |
-Sep-29 |   3     | Distributions (3.1)              | [Slides](https://github.com/jbryer/EPSY530Fall2014/blob/master/Slides/Chapter3/Chp%203/chp3.pdf?raw=true)
+Sep-29 |   3     | Distributions (3.1)              | [Slides](https://github.com/jbryer/EPSY530Fall2014/blob/master/Slides/Chapter3/Chp%203	/chp3.pdf?raw=true)
 Oct-1  |         | *No Class*                       |
 Oct-6  |   3     | Distributions (3.2)              | Lab 2 Due
 Oct-8  |   4     | Foundation for Inference         | 
@@ -95,7 +95,7 @@ These mini projects will have you explore statistical topics using R. For each p
 <li> <a href='https://github.com/jbryer/EPSY530Fall2014/blob/master/Labs/0%20Intro%20R%20and%20RStudio.pdf?raw=true'>Introduction to R and RStudio</a> (<a href='https://github.com/jbryer/EPSY530Fall2014/raw/master/Labs/Lab0.Rmd'>Template</a>)</li>
 <li> <a href='https://github.com/jbryer/EPSY530Fall2014/blob/master/Labs/1%20Intro%20to%20Data.pdf?raw=true'>Introduction to Data</a> (<a href='https://github.com/jbryer/EPSY530Fall2014/raw/master/Labs/Lab1.Rmd'>Template</a>)</li>
 <li> <a href='https://github.com/jbryer/EPSY530Fall2014/blob/master/Labs/2%20Probability.pdf?raw=true'>Probability</a> (<a href='https://github.com/jbryer/EPSY530Fall2014/raw/master/Labs/Lab2.Rmd'>Template</a>)</li>
-<li> <a href='https://github.com/jbryer/EPSY530Fall2014/blob/master/Labs/3%20Distributions%20of%20Random%20Variables.pdf?raw=true'>Distributions of Random Variables</a> (<a href='https://github.com/jbryer/EPSY530Fall2014/raw/master/Labs/Lab3.Rmd'>Template</a>)</li>
+<li> <a href='https://github.com/jbryer/EPSY530Fall2014/blob/master/Labs/3%20Distributions%20of%20Random%20Variables.pdf?raw=true'>Distributions of Random Variables</a> (<a href='https://github.com/jbryer/EPSY530Fall2014/raw/master/Labs/Lab3.Rmd'>Template</a>, <a href='http://htmlpreview.github.io/?https://github.com/jbryer/EPSY530Fall2014/blob/master/Labs/Lab3.html'>Preview</a>)</li>
 <li> Foundations for Statistical Inference <ol type="A">
     <li> <a href='https://github.com/jbryer/EPSY530Fall2014/blob/master/Labs/4a%20Sampling%20Distributions.pdf?raw=true'>Sampling Distributions</a> (<a href='https://github.com/jbryer/EPSY530Fall2014/raw/master/Labs/Lab4a.Rmd'>Template</a>)</li>
     <li> <a href='https://github.com/jbryer/EPSY530Fall2014/blob/master/Labs/4b%20Confidence%20Intervals.pdf?raw=true'>Confidence Levels</a> (<a href='https://github.com/jbryer/EPSY530Fall2014/raw/master/Labs/Lab4b.Rmd'>Template</a>)</li>
