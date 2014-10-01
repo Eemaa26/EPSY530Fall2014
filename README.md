@@ -36,23 +36,23 @@ Sep-15 |   1     | Intro to data (1.6 to 1.8)       |
 Sep-17 |   2     | Probability (2.1 to 2.2)         | [Slides](https://github.com/jbryer/EPSY530Fall2014/blob/master/Slides/Chapter2/Chp%202/chp2.pdf?raw=true)
 Sep-22 |   2     | Probability (2.3 to 2.5)         | Lab 1 Due
 Sep-24 |         | *No Class - Rosh Hashanah*       |
-Sep-29 |   3     | Distributions (3.1 to )          | Lab 2 Due
+Sep-29 |   3     | Distributions (3.1)              | [Slides](https://github.com/jbryer/EPSY530Fall2014/blob/master/Slides/Chapter2/Chp%202/chp3.pdf?raw=true)
 Oct-1  |         | *No Class*                       |
-Oct-6  |   3     |                                  |
-Oct-8  |   4     | Foundation for Inference         | Lab 3 Due
-Oct-13 |   4     |                                  |
+Oct-6  |   3     | Distributions (3.2)              | Lab 2 Due
+Oct-8  |   4     | Foundation for Inference         | 
+Oct-13 |   4     |                                  | Lab 3 Due
 Oct-15 |   4     |                                  |
-Oct-20 |   5     | Inference for Numerical Data     | Lab 4 Due
-Oct-22 |   5     |                                  |
+Oct-20 |   5     | Inference for Numerical Data     |
+Oct-22 |   5     |                                  | Lab 4 Due
 Oct-27 |   5     |                                  |
-Oct-29 |   6     | Inference for Categorical Data   | Lab 5 Due
-Nov-3  |   6     |                                  |
+Oct-29 |   6     | Inference for Categorical Data   |
+Nov-3  |   6     |                                  | Lab 5 Due
 Nov-5  |   6     |                                  |
-Nov-10 |   7     | Linear Regression                | Lab 6 Due
-Nov-12 |   7     |                                  |
+Nov-10 |   7     | Linear Regression                |
+Nov-12 |   7     |                                  | Lab 6 Due
 Nov-17 |   7     |                                  |
-Nov-19 |   8     | Multiple Regression              | Lab 7 Due
-Nov-24 |   8     |                                  |
+Nov-19 |   8     | Multiple Regression              |
+Nov-24 |   8     |                                  | Lab 7 Due
 Nov-26 |         | *No Class - Thanksgiving*        |
 Dec-1  |   8     | Logistic Regression              |
 Dec-3  |         | Review - Take Home Distributed   | Lab 8 Due
