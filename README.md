@@ -36,7 +36,7 @@ Sep-15 |   1     | Intro to data (1.6 to 1.8)       |
 Sep-17 |   2     | Probability (2.1 to 2.2)         | [Slides](https://github.com/jbryer/EPSY530Fall2014/blob/master/Slides/Chapter2/Chp%202/chp2.pdf?raw=true)
 Sep-22 |   2     | Probability (2.3 to 2.5)         | Lab 1 Due
 Sep-24 |         | *No Class - Rosh Hashanah*       |
-Sep-29 |   3     | Distributions (3.1)              | [Slides](https://github.com/jbryer/EPSY530Fall2014/blob/master/Slides/Chapter2/Chp%202/chp3.pdf?raw=true)
+Sep-29 |   3     | Distributions (3.1)              | [Slides](https://github.com/jbryer/EPSY530Fall2014/blob/master/Slides/Chapter3/Chp%203/chp3.pdf?raw=true)
 Oct-1  |         | *No Class*                       |
 Oct-6  |   3     | Distributions (3.2)              | Lab 2 Due
 Oct-8  |   4     | Foundation for Inference         | 
