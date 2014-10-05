@@ -127,22 +127,6 @@ The \hl{choose function} is useful for calculating the number of ways to choose 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\begin{frame}[fragile]
-\frametitle{Properties of the choose function}
-
-\pq{Which of the following is false?}
-
-\begin{enumerate}[(a)]
-\item There are $n$ ways of getting 1 success in $n$ trials, ${n \choose 1} = n$.
-\item There is only 1 way of getting $n$ successes in $n$ trials, ${n \choose n} = 1$.
-\item There is only 1 way of getting $n$ failures in $n$ trials, ${n \choose 0} = 1$.
-\solnMult{There are $n-1$ ways of getting $n-1$ successes in $n$ trials, ${n \choose n-1} = n-1$.}
-\end{enumerate}
-
-\end{frame}
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
 \begin{frame}
 \frametitle{Binomial distribution (cont.)}
 
@@ -318,50 +302,6 @@ Among a random sample of 100 Americans, how many would you expect to be obese?}
 Using the notion that \hl{observations that are more than 2 standard deviations away from the mean are considered unusual} and the mean and the standard deviation we just computed, we can calculate a range for the plausible number of obese Americans in random samples of 100.
 
 \[ 26.2 \pm (2 \times 4.4) = (17.4, 35) \]
-
-\end{frame}
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-\begin{frame}
-
-\pq{An August 2012 Gallup poll suggests that 13\% of Americans think home schooling provides an excellent education for children.  Would a random sample of 1,000 Americans where only 100 share this opinion be considered unusual?}
-\begin{multicols}{2}
-\begin{enumerate}[(a)]
-\item No
-\solnMult{Yes}
-\end{enumerate}
-\end{multicols}
-
-\only<1>{
-\begin{center}
-\includegraphics[width=0.8\textwidth]{3-4_binomial_distribution/figures/homeschool}
-\end{center}
-}
-
-\vspace{-0.5cm}
-\soln{
-{\small
-\only<2->{
-\begin{align*}
-\mu &= np = 1,000 \times 0.13 = 130 \\
-\sigma &= \sqrt{np(1-p)} = \sqrt{1,000 \times 0.13 \times 0.87} \approx 10.6
-\end{align*}
-}
-\begin{changemargin}{+1cm}{+0cm}
-\pause
-\begin{enumerate}
-\only<3->{\item[Method 1:] Range of usual observations: $130 \pm 2 \times 10.6 = (108.8, 151.2)$ \\
-100 is outside this range, so would be considered unusual.}
-\only<4->{\item[Method 2:] Z-score of observation: $Z = \frac{x - mean}{SD} = \frac{100 - 130}{10.6} = -2.83$ \\
-100 is more than 2 SD below the mean, so would be considered unusual.}
-\end{enumerate}
-\end{changemargin}
-}}
-
-\vfill
-
-\ct{\webURL{http://www.gallup.com/poll/156974/private-schools-top-marks-educating-children.aspx}}
 
 \end{frame}
 
