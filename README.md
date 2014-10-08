@@ -39,7 +39,7 @@ Sep-24 |         | *No Class - Rosh Hashanah*       |
 Sep-29 |   3     | Distributions (3.1)              | [Slides](https://github.com/jbryer/EPSY530Fall2014/blob/master/Slides/Chapter3/Chp%203/chp3.pdf?raw=true)<br>[Distribution Calculator](http://spark.rstudio.com/minebocek/dist_calc/)<br>[Probability Tables](https://github.com/jbryer/EPSY530Fall2014/blob/master/Textbook/os2_prob_tables.pdf?raw=true)
 Oct-1  |         | *No Class*                       |
 Oct-6  |   3     | Distributions (3.2)              | Lab 2 Due
-Oct-8  |   4     | Foundation for Inference         | 
+Oct-8  |   4     | Foundation for Inference         | [Slides](https://github.com/jbryer/EPSY530Fall2014/blob/master/Slides/Chapter4/Chp%203/chp4.pdf?raw=true)
 Oct-13 |   4     |                                  | Lab 3 Due
 Oct-15 |   4     |                                  |
 Oct-20 |   5     | Inference for Numerical Data     |
