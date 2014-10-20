@@ -39,9 +39,9 @@ Sep-24 |         | *No Class - Rosh Hashanah*       |
 Sep-29 |   3     | Distributions (3.1)              | [Slides](https://github.com/jbryer/EPSY530Fall2014/blob/master/Slides/Chapter3/Chp%203/chp3.pdf?raw=true)<br>[Distribution Calculator](http://spark.rstudio.com/minebocek/dist_calc/)<br>[Probability Tables](https://github.com/jbryer/EPSY530Fall2014/blob/master/Textbook/os2_prob_tables.pdf?raw=true)
 Oct-1  |         | *No Class*                       |
 Oct-6  |   3     | Distributions (3.2)              | Lab 2 Due
-Oct-8  |   4     | Foundation for Inference         | [Slides](https://github.com/jbryer/EPSY530Fall2014/blob/master/Slides/Chapter4/Chp%203/chp4.pdf?raw=true)
-Oct-13 |   4     |                                  | Lab 3 Due
-Oct-15 |   4     |                                  |
+Oct-8  |   3     | Distributions                    | 
+Oct-13 |   4     | Foundation for Inference         | [Slides](https://github.com/jbryer/EPSY530Fall2014/blob/master/Slides/Chapter4/Chp%203/chp4.pdf?raw=true)
+Oct-15 |   4     |                                  | Lab 3 Due
 Oct-20 |   5     | Inference for Numerical Data     |
 Oct-22 |   5     |                                  | Lab 4 Due
 Oct-27 |   5     |                                  |
@@ -80,7 +80,7 @@ You can find a lot of the material in *R in Action* on Kabacoff's website, [stat
 * Chapter 1. p. 47: 1.2, 1.4, 1.8, 1.10, 1.12, 1.16 (part a only), 1.23, 1.30, 1.39, 1.47, 1.48
 * Chapter 2. p. 107: 2.1, 2.2, 2.6, 2.8, 2.11, 2.12, 2.15, 2.17, 2.21, 2.28, 2.46
 * Chapter 3. p. 149: 3.1, 3.3, 3.5, 3.10, 3.16, 3.18, 3.19
-* Chapter 4. p. 197: 
+* Chapter 4. p. 197: 4.1, 4.3, 4.4, 4.9, 4.11, 4.15, 4.19, 4.22, 4.29, 4.33, 4.47
 * Chapter 5. p. 247: 
 * Chapter 6. p. 298: 
 * Chapter 7. p. 330: 
