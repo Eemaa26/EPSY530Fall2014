@@ -24,39 +24,39 @@ A = 93+; A- = 90-92; B+ = 87-89; B = 84-86; B- = 80-83; C+ = 75-79; C = 70-74; D
 
 *NOTE: Tentative. Subject to change*
 
-Date   | Chapter | Topic                            | Resources
--------|:-------:|:---------------------------------|:----------
-Aug-25 |         | Introductions                    |
-Aug-27 |   1     | Intro to Data (1.1 to 1.2)       | [Slides](https://github.com/jbryer/EPSY530Fall2014/blob/master/Slides/Chapter1/Chp%201/chp1.pdf?raw=true)
-Sep-1  |         | *No Class - Labor Day*           |
-Sep-3  |   1     | Intro to Data (1.3)              | 
-Sep-8  |   1     | Intro to Data (1.4 to 1.5)       | Lab 0 Due
-Sep-10 |         | Working Lab                      |
-Sep-15 |   1     | Intro to data (1.6 to 1.8)       | 
-Sep-17 |   2     | Probability (2.1 to 2.2)         | [Slides](https://github.com/jbryer/EPSY530Fall2014/blob/master/Slides/Chapter2/Chp%202/chp2.pdf?raw=true)
-Sep-22 |   2     | Probability (2.3 to 2.5)         | Lab 1 Due
-Sep-24 |         | *No Class - Rosh Hashanah*       |
-Sep-29 |   3     | Distributions (3.1)              | [Slides](https://github.com/jbryer/EPSY530Fall2014/blob/master/Slides/Chapter3/Chp%203/chp3.pdf?raw=true)<br>[Distribution Calculator](http://spark.rstudio.com/minebocek/dist_calc/)<br>[Probability Tables](https://github.com/jbryer/EPSY530Fall2014/blob/master/Textbook/os2_prob_tables.pdf?raw=true)
-Oct-1  |         | *No Class*                       |
-Oct-6  |   3     | Distributions (3.2)              | Lab 2 Due
-Oct-8  |   3     | Distributions                    | 
-Oct-13 |   4     | Foundation for Inference         | [Slides](https://github.com/jbryer/EPSY530Fall2014/blob/master/Slides/Chapter4/Chp%203/chp4.pdf?raw=true)
-Oct-15 |   4     |                                  | Lab 3 Due
-Oct-20 |   5     | Inference for Numerical Data     |
-Oct-22 |   5     |                                  | Lab 4 Due
-Oct-27 |   5     |                                  |
-Oct-29 |   6     | Inference for Categorical Data   |
-Nov-3  |   6     |                                  | Lab 5 Due
-Nov-5  |   6     |                                  |
-Nov-10 |   7     | Linear Regression                |
-Nov-12 |   7     |                                  | Lab 6 Due
-Nov-17 |   7     |                                  |
-Nov-19 |   8     | Multiple Regression              |
-Nov-24 |   8     |                                  | Lab 7 Due
-Nov-26 |         | *No Class - Thanksgiving*        |
-Dec-1  |   8     | Logistic Regression              |
-Dec-3  |         | Review - Take Home Distributed   | Lab 8 Due
-Dec-8  |         | Final Exam - Take Home Due       |
+Date   | Chapter | Topic                                  | Resources
+-------|:-------:|:---------------------------------------|:--------------------
+Aug-25 |         | Introductions                          |
+Aug-27 |   1     | Intro to Data (1.1 to 1.2)             | [Slides](https://github.com/jbryer/EPSY530Fall2014/blob/master/Slides/Chapter1/Chp%201/chp1.pdf?raw=true)
+Sep-1  |         | *No Class - Labor Day*                 |
+Sep-3  |   1     | Intro to Data (1.3)                    | 
+Sep-8  |   1     | Intro to Data (1.4 to 1.5)             | Lab 0 Due
+Sep-10 |         | Working Lab                            |
+Sep-15 |   1     | Intro to data (1.6 to 1.8)             | 
+Sep-17 |   2     | Probability (2.1 to 2.2)               | [Slides](https://github.com/jbryer/EPSY530Fall2014/blob/master/Slides/Chapter2/Chp%202/chp2.pdf?raw=true)
+Sep-22 |   2     | Probability (2.3 to 2.5)               | Lab 1 Due
+Sep-24 |         | *No Class - Rosh Hashanah*             |
+Sep-29 |   3     | Distributions (3.1)                    | [Slides](https://github.com/jbryer/EPSY530Fall2014/blob/master/Slides/Chapter3/Chp%203/chp3.pdf?raw=true)<br>[Distribution Calculator](http://spark.rstudio.com/minebocek/dist_calc/)<br>[Probability Tables](https://github.com/jbryer/EPSY530Fall2014/blob/master/Textbook/os2_prob_tables.pdf?raw=true)
+Oct-1  |         | *No Class*                             |
+Oct-6  |   3     | Distributions (3.2)                    | Lab 2 Due
+Oct-8  |   3     | Distributions                          | 
+Oct-13 |   4     | Foundation for Inference (4.1)         | [Slides](https://github.com/jbryer/EPSY530Fall2014/blob/master/Slides/Chapter4/Chp%204/chp4.pdf?raw=true)
+Oct-15 |   4     | Foundation for Inference (4.2 to 4.3)  | 
+Oct-20 |   4     | Foundations for Inference (4.4 to 4.7) | Lab 3 Due
+Oct-22 |   5     | Inference for Numerical Data (5.1 to 5.2) | [Slides](https://github.com/jbryer/EPSY530Fall2014/blob/master/Slides/Chapter5/Chp%205/chp5.pdf?raw=true)
+Oct-27 |   5     |                                        | Lab 4 Due
+Oct-29 |   6     | Inference for Categorical Data         |
+Nov-3  |   6     |                                        | Lab 5 Due
+Nov-5  |   6     |                                        |
+Nov-10 |   7     | Linear Regression                      |
+Nov-12 |   7     |                                        | Lab 6 Due
+Nov-17 |   7     |                                        |
+Nov-19 |   8     | Multiple Regression                    |
+Nov-24 |   8     |                                        | Lab 7 Due
+Nov-26 |         | *No Class - Thanksgiving*              |
+Dec-1  |   8     | Logistic Regression                    |
+Dec-3  |         | Review - Take Home Distributed         | Lab 8 Due
+Dec-8  |         | Final Exam - Take Home Due             |
 
 
 
