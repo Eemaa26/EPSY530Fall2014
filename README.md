@@ -43,8 +43,8 @@ Oct-8  |   3     | Distributions                          |
 Oct-13 |   4     | Foundation for Inference (4.1)         | [Slides](https://github.com/jbryer/EPSY530Fall2014/blob/master/Slides/Chapter4/Chp%204/chp4.pdf?raw=true)
 Oct-15 |   4     | Foundation for Inference (4.2 to 4.3)  | 
 Oct-20 |   4     | Foundations for Inference (4.4 to 4.7) | Lab 3 Due
-Oct-22 |   5     | Inference for Numerical Data (5.1 to 5.2) | [Slides](https://github.com/jbryer/EPSY530Fall2014/blob/master/Slides/Chapter5/Chp%205/chp5.pdf?raw=true) [isualize Type II Error Rates in a One-sample test of a Mean](http://shiny.albany.edu/stat/betaprob)
-Oct-27 |   5     | Inference for Numerical Data (5.3 to 5.4) | Lab 4 Due [Shiny App for t-distributions](http://shiny.albany.edu/stat/tdist/)
+Oct-22 |   5     | Inference for Numerical Data (5.1 to 5.2) | [Slides](https://github.com/jbryer/EPSY530Fall2014/blob/master/Slides/Chapter5/Chp%205/chp5.pdf?raw=true) <br />[Shiny App for Error Rates](http://shiny.albany.edu/stat/betaprob)
+Oct-27 |   5     | Inference for Numerical Data (5.3 to 5.4) | Lab 4 Due<br />[Shiny App for t-distributions](http://shiny.albany.edu/stat/tdist/)
 Oct-29 |   6     | Inference for Categorical Data         |
 Nov-3  |   6     |                                        | Lab 5 Due
 Nov-5  |   6     |                                        |
