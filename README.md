@@ -14,7 +14,7 @@ Descriptive statistics including measures of central tendency and variability, c
 
 * Homework (25%)
 * Labs (50%)
-* Final exam (25%) - In class multiple choice and take home short answers.
+* Final exam (25%)
 
 #### Grade Distribution
 
@@ -24,39 +24,39 @@ A = 93+; A- = 90-92; B+ = 87-89; B = 84-86; B- = 80-83; C+ = 75-79; C = 70-74; D
 
 *NOTE: Tentative. Subject to change*
 
-Date   | Chapter | Topic                                  | Resources
--------|:-------:|:---------------------------------------|:--------------------
-Aug-25 |         | Introductions                          |
-Aug-27 |   1     | Intro to Data (1.1 to 1.2)             | [Slides](https://github.com/jbryer/EPSY530Fall2014/blob/master/Slides/Chapter1/Chp%201/chp1.pdf?raw=true)
-Sep-1  |         | *No Class - Labor Day*                 |
-Sep-3  |   1     | Intro to Data (1.3)                    | 
-Sep-8  |   1     | Intro to Data (1.4 to 1.5)             | Lab 0 Due
-Sep-10 |         | Working Lab                            |
-Sep-15 |   1     | Intro to data (1.6 to 1.8)             | 
-Sep-17 |   2     | Probability (2.1 to 2.2)               | [Slides](https://github.com/jbryer/EPSY530Fall2014/blob/master/Slides/Chapter2/Chp%202/chp2.pdf?raw=true)
-Sep-22 |   2     | Probability (2.3 to 2.5)               | Lab 1 Due
-Sep-24 |         | *No Class - Rosh Hashanah*             |
-Sep-29 |   3     | Distributions (3.1)                    | [Slides](https://github.com/jbryer/EPSY530Fall2014/blob/master/Slides/Chapter3/Chp%203/chp3.pdf?raw=true)<br>[Distribution Calculator](http://spark.rstudio.com/minebocek/dist_calc/)<br>[Probability Tables](https://github.com/jbryer/EPSY530Fall2014/blob/master/Textbook/os2_prob_tables.pdf?raw=true)
-Oct-1  |         | *No Class*                             |
-Oct-6  |   3     | Distributions (3.2)                    | Lab 2 Due
-Oct-8  |   3     | Distributions                          | 
-Oct-13 |   4     | Foundation for Inference (4.1)         | [Slides](https://github.com/jbryer/EPSY530Fall2014/blob/master/Slides/Chapter4/Chp%204/chp4.pdf?raw=true)
-Oct-15 |   4     | Foundation for Inference (4.2 to 4.3)  | 
-Oct-20 |   4     | Foundations for Inference (4.4 to 4.7) | Lab 3 Due
-Oct-22 |   5     | Inference for Numerical Data (5.1 to 5.2) | [Slides](https://github.com/jbryer/EPSY530Fall2014/blob/master/Slides/Chapter5/Chp%205/chp5.pdf?raw=true) <br />[Shiny App for Error Rates](http://shiny.albany.edu/stat/betaprob)
-Oct-27 |   5     | Inference for Numerical Data (5.3 to 5.4) | Lab 4 Due<br />[Shiny App for t-distributions](http://shiny.albany.edu/stat/tdist/)
-Oct-29 |   6     | Inference for Categorical Data         |
-Nov-3  |   6     |                                        | Lab 5 Due
-Nov-5  |   6     |                                        |
-Nov-10 |   7     | Linear Regression                      |
-Nov-12 |   7     |                                        | Lab 6 Due
-Nov-17 |   7     |                                        |
-Nov-19 |   8     | Multiple Regression                    |
-Nov-24 |   8     |                                        | Lab 7 Due
-Nov-26 |         | *No Class - Thanksgiving*              |
-Dec-1  |   8     | Logistic Regression                    |
-Dec-3  |         | Review - Take Home Distributed         | Lab 8 Due
-Dec-8  |         | Final Exam - Take Home Due             |
+Date   | Chapter    | Topic                                     | Resources
+-------|:----------:|:------------------------------------------|:--------------------
+Aug-25 |            | Introductions                             |
+Aug-27 | 1.1 to 1.2 | Intro to Data                             | [Chapter 1 Slides](https://github.com/jbryer/EPSY530Fall2014/blob/master/Slides/Chapter1/Chp%201/chp1.pdf?raw=true)
+Sep-1  |            | *No Class - Labor Day*                    |
+Sep-3  | 1.3        | Intro to Data                             | 
+Sep-8  | 1.4 to 1.5 | Intro to Data                             | Lab 0 Due
+Sep-10 |            | Working Lab                               |
+Sep-15 | 1.6 to 1.8 | Intro to data                             | 
+Sep-17 | 2.1 to 2.2 | Probability                               | [Chapter 2 Slides](https://github.com/jbryer/EPSY530Fall2014/blob/master/Slides/Chapter2/Chp%202/chp2.pdf?raw=true)
+Sep-22 | 2.3 to 2.5 | Probability                               | Lab 1 Due
+Sep-24 |            | *No Class - Rosh Hashanah*                |
+Sep-29 | 3.1        | Distributions                             | [Chapter 3 Slides](https://github.com/jbryer/EPSY530Fall2014/blob/master/Slides/Chapter3/Chp%203/chp3.pdf?raw=true)<br>[Distribution Calculator](http://spark.rstudio.com/minebocek/dist_calc/)<br>[Probability Tables](https://github.com/jbryer/EPSY530Fall2014/blob/master/Textbook/os2_prob_tables.pdf?raw=true)
+Oct-1  |            | *No Class*                                |
+Oct-6  | 3.2        | Distributions                             | Lab 2 Due
+Oct-8  | 3.3        | Distributions                             | 
+Oct-13 | 4.1        | Foundation for Inference                  | [Chapter 4 Slides](https://github.com/jbryer/EPSY530Fall2014/blob/master/Slides/Chapter4/Chp%204/chp4.pdf?raw=true)
+Oct-15 | 4.2 to 4.3 | Foundation for Inference                  | 
+Oct-20 | 4.4 to 4.7 | Foundations for Inference                 | Lab 3 Due
+Oct-22 | 5.1 to 5.2 | Inference for Numerical Data              | [Chapter 5 Slides](https://github.com/jbryer/EPSY530Fall2014/blob/master/Slides/Chapter5/Chp%205/chp5.pdf?raw=true) <br />[Shiny App for Error Rates](http://shiny.albany.edu/stat/betaprob)
+Oct-27 | 5.3 to 5.4 | Inference for Numerical Data              | Lab 4 Due<br />[Shiny App for t-distributions](http://shiny.albany.edu/stat/tdist/)
+Oct-29 | 5          | Inference for Numerical Data              | [t-Test Exercise](http://htmlpreview.github.io/?https://github.com/jbryer/EPSY530Fall2014/blob/master/R/t-test-Exercise.html) ([Rmd](https://github.com/jbryer/EPSY530Fall2014/blob/master/t-test-Exercise.Rmd?raw=true), [R](https://github.com/jbryer/EPSY530Fall2014/blob/master/NullHypothesisSetup.R?raw=true))
+Nov-3  | 6          | Inference for Categorical Data            |
+Nov-5  | 6          | Inference for Categorical Data            | Lab 5 Due
+Nov-10 | 7          | Linear Regression                         |
+Nov-12 | 7          | Linear Regression                         | Lab 6 Due
+Nov-17 | 7          | Linear Regression                         |
+Nov-19 | 8          | Multiple Regression                       |
+Nov-24 | 8          | Multiple Regression                       | Lab 7 Due
+Nov-26 |            | *No Class - Thanksgiving*                 |
+Dec-1  | 8          | Logistic Regression                       |
+Dec-3  |            | Review - Take Home Distributed            | 
+Dec-8  |            | Final Exam - Take Home Due                |
 
 
 
@@ -81,7 +81,7 @@ You can find a lot of the material in *R in Action* on Kabacoff's website, [stat
 * Chapter 2. p. 107: 2.1, 2.2, 2.6, 2.8, 2.11, 2.12, 2.15, 2.17, 2.21, 2.28, 2.46
 * Chapter 3. p. 149: 3.1, 3.3, 3.5, 3.10, 3.16, 3.18, 3.19
 * Chapter 4. p. 197: 4.1, 4.3, 4.4, 4.9, 4.11, 4.15, 4.19, 4.22, 4.29, 4.33, 4.47
-* Chapter 5. p. 247: 
+* Chapter 5. p. 247: 5.2, 5.4, 5.5, 5.7, 5.9, 5.15, 5.17, 5.18, 5.21, 5.24, 5.33
 * Chapter 6. p. 298: 
 * Chapter 7. p. 330: 
 * Chapter 8. p. 377: 
@@ -103,7 +103,7 @@ These mini projects will have you explore statistical topics using R. For each p
 <li> <a href='https://github.com/jbryer/EPSY530Fall2014/blob/master/Labs/5%20Inference%20for%20Numerical%20Data.pdf?raw=true'>Inference for Numerical Data</a> (<a href='https://github.com/jbryer/EPSY530Fall2014/raw/master/Labs/Lab5.Rmd'>Template</a>)</li>
 <li> <a href='https://github.com/jbryer/EPSY530Fall2014/blob/master/Labs/6%20Inference%20for%20Categorical%20Data.pdf?raw=true'>Inference for Categorical Data</a> (<a href='https://github.com/jbryer/EPSY530Fall2014/raw/master/Labs/Lab6.Rmd'>Template</a>)</li>
 <li> <a href='https://github.com/jbryer/EPSY530Fall2014/blob/master/Labs/7%20Intro%20to%20Linear%20Regression.pdf?raw=true'>Introduction to Linear Regression</a> (<a href='https://github.com/jbryer/EPSY530Fall2014/raw/master/Labs/Lab7.Rmd'>Template</a>)</li>
-<li> <a href='https://github.com/jbryer/EPSY530Fall2014/blob/master/Labs/8%20Multiple%20Linear%20Regression.pdf?raw=true'>Multiple Linear Regerssion</a> (<a href='https://github.com/jbryer/EPSY530Fall2014/raw/master/Labs/Lab8.Rmd'>Template</a>)</li>
+<!-- li> <a href='https://github.com/jbryer/EPSY530Fall2014/blob/master/Labs/8%20Multiple%20Linear%20Regression.pdf?raw=true'>Multiple Linear Regerssion</a> (<a href='https://github.com/jbryer/EPSY530Fall2014/raw/master/Labs/Lab8.Rmd'>Template</a>)</li -->
 </ol>
 
 
