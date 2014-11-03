@@ -1,6 +1,6 @@
 ## EPSY 530 - Statistics I - Fall 2014
 
-**Instructor:** Jason Bryer [jason@bryer.org](mailto:jason@bryer.org?Subject=EPSY530)  
+**Instructor:** Jason Bryer, Ph.D. [jason@bryer.org](mailto:jason@bryer.org?Subject=EPSY530)  
 **Website:** [epsy530.bryer.org](http://epsy530.bryer.org)  
 **Class Time:** Monday & Wednesday 4:15pm to 5:35pm  
 **Class Location:** Humanities 24  
@@ -46,7 +46,7 @@ Oct-20 | 4.4 to 4.7 | Foundations for Inference                 | Lab 3 Due
 Oct-22 | 5.1 to 5.2 | Inference for Numerical Data              | [Chapter 5 Slides](https://github.com/jbryer/EPSY530Fall2014/blob/master/Slides/Chapter5/Chp%205/chp5.pdf?raw=true) <br />[Shiny App for Error Rates](http://shiny.albany.edu/stat/betaprob)
 Oct-27 | 5.3 to 5.4 | Inference for Numerical Data              | Lab 4 Due<br />[Shiny App for t-distributions](http://shiny.albany.edu/stat/tdist/)
 Oct-29 | 5          | Inference for Numerical Data              | [t-Test Exercise](http://htmlpreview.github.io/?https://github.com/jbryer/EPSY530Fall2014/blob/master/R/t-test-Exercise.html) ([Rmd](https://github.com/jbryer/EPSY530Fall2014/blob/master/t-test-Exercise.Rmd?raw=true), [R](https://github.com/jbryer/EPSY530Fall2014/blob/master/NullHypothesisSetup.R?raw=true))
-Nov-3  | 6          | Inference for Categorical Data            |
+Nov-3  | 6          | Inference for Categorical Data            | [Chapter 6 Slides](https://github.com/jbryer/EPSY530Fall2014/blob/master/Slides/Chapter6/Chp%206/chp6.pdf?raw=true)
 Nov-5  | 6          | Inference for Categorical Data            | Lab 5 Due
 Nov-10 | 7          | Linear Regression                         |
 Nov-12 | 7          | Linear Regression                         | Lab 6 Due
