@@ -46,8 +46,8 @@ Oct-20 | 4.4 to 4.7 | Foundations for Inference                 | Lab 3 Due
 Oct-22 | 5.1 to 5.2 | Inference for Numerical Data              | [Chapter 5 Slides](https://github.com/jbryer/EPSY530Fall2014/blob/master/Slides/Chapter5/Chp%205/chp5.pdf?raw=true) <br />[Shiny App for Error Rates](http://shiny.albany.edu/stat/betaprob)
 Oct-27 | 5.3 to 5.4 | Inference for Numerical Data              | Lab 4 Due<br />[Shiny App for t-distributions](http://shiny.albany.edu/stat/tdist/)
 Oct-29 | 5          | Inference for Numerical Data              | [t-Test Exercise](http://htmlpreview.github.io/?https://github.com/jbryer/EPSY530Fall2014/blob/master/R/t-test-Exercise.html) ([Rmd](https://github.com/jbryer/EPSY530Fall2014/blob/master/t-test-Exercise.Rmd?raw=true), [R](https://github.com/jbryer/EPSY530Fall2014/blob/master/NullHypothesisSetup.R?raw=true))
-Nov-3  | 6          | Inference for Categorical Data            | [Chapter 6 Slides](https://github.com/jbryer/EPSY530Fall2014/blob/master/Slides/Chapter6/Chp%206/chp6.pdf?raw=true)
-Nov-5  | 6          | Inference for Categorical Data            | Lab 5 Due
+Nov-3  | 6.1 to 6.2 | Inference for Categorical Data            | [Chapter 6 Slides](https://github.com/jbryer/EPSY530Fall2014/blob/master/Slides/Chapter6/Chp%206/chp6.pdf?raw=true)
+Nov-5  | 6.3 to 6.4 | Inference for Categorical Data            | Lab 5 Due <br /> [Why .05?](https://www.openintro.org/stat/why05.php)
 Nov-10 | 7          | Linear Regression                         |
 Nov-12 | 7          | Linear Regression                         | Lab 6 Due
 Nov-17 | 7          | Linear Regression                         |
