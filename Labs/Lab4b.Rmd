@@ -13,8 +13,11 @@ If you have access to data on an entire population, say the size of every house 
 In the previous lab we looked at the population data of houses from Ames, Iowa. Let’s start by loading that data set.
 
 ```{r}
-download.file("http://www.openintro.org/stat/data/ames.RData", destfile = "ames.RData")
+if(!file.exists('ames.RData')) {
+	download.file("http://www.openintro.org/stat/data/ames.RData", destfile = "ames.RData")
+}
 load("ames.RData")
+set.seed(2112) # This will ensure that the sample will return the same result each time.
 ```
 
 

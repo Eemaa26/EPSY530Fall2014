@@ -5,8 +5,11 @@ output: html_document
 ---
 	
 ```{r}
-download.file("http://www.openintro.org/stat/data/nc.RData", destfile = "nc.RData")
+if(!file.exists('nc.RData')) {
+	download.file("http://www.openintro.org/stat/data/nc.RData", destfile = "nc.RData")
+}
 load("nc.RData")
+set.seed(2112) # This will ensure that the sample will return the same result each time.
 ```
 
 #### 1. Calculate a 95% confidence interval for the average length of pregnancies (weeks) and interpret it in context. Note that since you’re doing inference on a single population parameter, there is no explanatory variable, so you can omit the x variable from the function.

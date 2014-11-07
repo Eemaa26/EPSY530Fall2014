@@ -5,8 +5,11 @@ output: html_document
 ---
 	
 ```{r}
-download.file("http://www.openintro.org/stat/data/mlb11.RData", destfile = "mlb11.RData")
+if(!file.exists('mlb11.RData')) {
+	download.file("http://www.openintro.org/stat/data/mlb11.RData", destfile = "mlb11.RData")
+}
 load("mlb11.RData")
+set.seed(2112) # This will ensure that the sample will return the same result each time.
 ```
 
 #### 1. Choose another traditional variable from mlb11 that you think might be a good predictor of runs. Produce a scatterplot of the two variables and fit a linear model. At a glance, does there seem to be a linear relationship?

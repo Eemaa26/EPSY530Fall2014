@@ -5,8 +5,11 @@ output: html_document
 ---
 	
 ```{r}
-download.file("http://www.openintro.org/stat/data/evals.RData", destfile = "evals.RData")
+if(!file.exists('evals.RData')) {
+	download.file("http://www.openintro.org/stat/data/evals.RData", destfile = "evals.RData")
+}
 load("evals.RData")
+set.seed(2112) # This will ensure that the sample will return the same result each time.
 ```
 
 ####  Exercise 1 Is this an observational study or an experiment? The original research question posed in the paper is whether beauty leads directly to the differences in course evaluations. Given the study design, is it possible to answer this question as it is phrased? If not, rephrase the question.

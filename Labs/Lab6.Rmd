@@ -5,8 +5,11 @@ output: html_document
 ---
 	
 ```{r}
-￼download.file("http://www.openintro.org/stat/data/atheism.RData", destfile = "atheism.RData
+if(!file.exists('atheism.RData')) {
+	download.file('http://www.openintro.org/stat/data/atheism.RData', destfile = 'atheism.RData')
+}
 load("atheism.RData")
+set.seed(2112) # This will ensure that the sample will return the same result each time.
 ```
 
 The question of atheism was asked by WIN-Gallup International in a similar survey that was conducted in 2005. Table 4 on page 13 of the report summarizes survey results from 2005 and 2012 for 39 countries.

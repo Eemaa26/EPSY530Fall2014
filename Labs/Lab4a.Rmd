@@ -15,6 +15,7 @@ if(!file.exists('ames.RData')) {
 	download.file("http://www.openintro.org/stat/data/ames.RData", destfile = "ames.RData")	
 }
 load("ames.RData")
+set.seed(2112)
 ```
 
 We see that there are quite a few variables in the data set, enough to do a very in-depth analysis. For this lab, we’ll restrict our attention to just two of the variables: the above ground living area of the house in square feet (Gr.Liv.Area) and the sale price (SalePrice). To save some effort throughout the lab, create two variables with short names that represent these two variables.
