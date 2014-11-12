@@ -48,7 +48,7 @@ Oct-27 | 5.3 to 5.4 | Inference for Numerical Data              | Lab 4 Due<br /
 Oct-29 | 5          | Inference for Numerical Data              | [t-Test Exercise](http://htmlpreview.github.io/?https://github.com/jbryer/EPSY530Fall2014/blob/master/R/t-test-Exercise.html) ([Rmd](https://github.com/jbryer/EPSY530Fall2014/blob/master/t-test-Exercise.Rmd?raw=true), [R](https://github.com/jbryer/EPSY530Fall2014/blob/master/NullHypothesisSetup.R?raw=true))
 Nov-3  | 6.1 to 6.2 | Inference for Categorical Data            | [Chapter 6 Slides](https://github.com/jbryer/EPSY530Fall2014/blob/master/Slides/Chapter6/Chp%206/chp6.pdf?raw=true)
 Nov-5  | 6.3 to 6.4 | Inference for Categorical Data            | Lab 5 Due <br /> [Why .05?](https://www.openintro.org/stat/why05.php)
-Nov-10 | 7          | Linear Regression                         |
+Nov-10 | 6.4 & 7.1  | Linear Regression                         | [Chapter 7 Slides](https://github.com/jbryer/EPSY530Fall2014/blob/master/Slides/Chapter7/Chp%207/chp7.pdf?raw=true)
 Nov-12 | 7          | Linear Regression                         | Lab 6 Due
 Nov-17 | 7          | Linear Regression                         |
 Nov-19 | 8          | Multiple Regression                       |
@@ -74,6 +74,11 @@ Kabacoff, R.I. (2011). *R in Action*. Manning Publications.
 
 You can find a lot of the material in *R in Action* on Kabacoff's website, [statmethods.net](http://statmethods.net/). You can receive 38% off using the ria38 promo code when ordering from [here](http://www.manning.com/kabacoff/).
 
+##### Other Documents
+
+* [Probability Tables](https://github.com/jbryer/EPSY530Fall2014/blob/master/Textbook/os2_prob_tables.pdf?raw=true)
+* [Inference Guide](https://github.com/jbryer/EPSY530Fall2014/blob/master/Textbook/os2_extra_inference_guide.pdf?raw=true)
+
 
 ### Homework Assignments
 
@@ -82,9 +87,8 @@ You can find a lot of the material in *R in Action* on Kabacoff's website, [stat
 * Chapter 3. p. 149: 3.1, 3.3, 3.5, 3.10, 3.16, 3.18, 3.19
 * Chapter 4. p. 197: 4.1, 4.3, 4.4, 4.9, 4.11, 4.15, 4.19, 4.22, 4.29, 4.33, 4.47
 * Chapter 5. p. 247: 5.2, 5.4, 5.5, 5.7, 5.9, 5.15, 5.17, 5.18, 5.21, 5.24, 5.33
-* Chapter 6. p. 298: 
+* Chapter 6. p. 298: 6.1, 6.5, 6.13, 6.16, 6.23, 6.26, 6.32, 6.37, 6.39, 6.42
 * Chapter 7. p. 330: 
-* Chapter 8. p. 377: 
 
 ### Labs
 
