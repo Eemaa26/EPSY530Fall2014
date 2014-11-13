@@ -48,16 +48,15 @@ Oct-27 | 5.3 to 5.4 | Inference for Numerical Data              | Lab 4 Due<br /
 Oct-29 | 5          | Inference for Numerical Data              | [t-Test Exercise](http://htmlpreview.github.io/?https://github.com/jbryer/EPSY530Fall2014/blob/master/R/t-test-Exercise.html) ([Rmd](https://github.com/jbryer/EPSY530Fall2014/blob/master/t-test-Exercise.Rmd?raw=true), [R](https://github.com/jbryer/EPSY530Fall2014/blob/master/NullHypothesisSetup.R?raw=true))
 Nov-3  | 6.1 to 6.2 | Inference for Categorical Data            | [Chapter 6 Slides](https://github.com/jbryer/EPSY530Fall2014/blob/master/Slides/Chapter6/Chp%206/chp6.pdf?raw=true)
 Nov-5  | 6.3 to 6.4 | Inference for Categorical Data            | Lab 5 Due <br /> [Why .05?](https://www.openintro.org/stat/why05.php)
-Nov-10 | 6.4 & 7.1  | Linear Regression                         | [Chapter 7 Slides](https://github.com/jbryer/EPSY530Fall2014/blob/master/Slides/Chapter7/Chp%207/chp7.pdf?raw=true)
-Nov-12 | 7          | Linear Regression                         | Lab 6 Due
-Nov-17 | 7          | Linear Regression                         |
-Nov-19 | 8          | Multiple Regression                       |
+Nov-10 | 7.1        | Linear Regression                         | [Chapter 7 Slides](https://github.com/jbryer/EPSY530Fall2014/blob/master/Slides/Chapter7/Chp%207/chp7.pdf?raw=true)
+Nov-12 | 7.2        | Linear Regression                         | Lab 6 Due <br /> [Linear Regression PDF](https://github.com/jbryer/EPSY530Fall2014/blob/master/Slides/LinearRegression.pdf?raw=true)
+Nov-17 | 7.3        | Linear Regression                         |
+Nov-19 |            | Analysis of Variance                      |
 Nov-24 | 8          | Multiple Regression                       | Lab 7 Due
 Nov-26 |            | *No Class - Thanksgiving*                 |
 Dec-1  | 8          | Logistic Regression                       |
 Dec-3  |            | Review - Take Home Distributed            | 
 Dec-8  |            | Final Exam - Take Home Due                |
-
 
 
 ### Textbook
