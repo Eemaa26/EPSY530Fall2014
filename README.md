@@ -50,8 +50,8 @@ Nov-3  | 6.1 to 6.2 | Inference for Categorical Data            | [Chapter 6 Sli
 Nov-5  | 6.3 to 6.4 | Inference for Categorical Data            | Lab 5 Due <br /> [Why .05?](https://www.openintro.org/stat/why05.php)
 Nov-10 | 7.1        | Linear Regression                         | [Chapter 7 Slides](https://github.com/jbryer/EPSY530Fall2014/blob/master/Slides/Chapter7/Chp%207/chp7.pdf?raw=true)
 Nov-12 | 7.2        | Linear Regression                         | Lab 6 Due <br /> [Linear Regression PDF](https://github.com/jbryer/EPSY530Fall2014/blob/master/Slides/LinearRegression.pdf?raw=true)
-Nov-17 | 7.3        | Linear Regression                         |
-Nov-19 |            | Analysis of Variance                      |
+Nov-17 |            | Linear Regression Exercise                | [Handout](https://rawgithub.com/jbryer/EPSY530Fall2014/master/Resources/LinearRegressionExercise.pdf) <br />[Slides](https://rawgithub.com/jbryer/EPSY530Fall2014/master/Slides/LinearRegressionNYSRC.html)
+Nov-19 | 7.3        | Linear Regression                         |
 Nov-24 | 8          | Multiple Regression                       | Lab 7 Due
 Nov-26 |            | *No Class - Thanksgiving*                 |
 Dec-1  | 8          | Logistic Regression                       |
