@@ -52,9 +52,9 @@ Nov-10 | 7.1        | Linear Regression                         | [Chapter 7 Sli
 Nov-12 | 7.2        | Linear Regression                         | Lab 6 Due <br /> [Linear Regression PDF](https://github.com/jbryer/EPSY530Fall2014/blob/master/Slides/LinearRegression.pdf?raw=true)
 Nov-17 |            | Linear Regression Exercise                | [Handout](https://rawgithub.com/jbryer/EPSY530Fall2014/master/Resources/LinearRegressionExercise.pdf) <br />[Slides](https://rawgithub.com/jbryer/EPSY530Fall2014/master/Slides/LinearRegressionNYSRC.html)
 Nov-19 | 7.3        | Linear Regression                         |
-Nov-24 | 8          | Multiple Regression                       | Lab 7 Due
+Nov-24 |            | Lab Review                                | Lab 7 Due
 Nov-26 |            | *No Class - Thanksgiving*                 |
-Dec-1  | 8          | Logistic Regression                       |
+Dec-1  |            | Lab Review                                |
 Dec-3  |            | Review - Take Home Distributed            | 
 Dec-8  |            | Final Exam - Take Home Due                |
 
@@ -87,7 +87,7 @@ You can find a lot of the material in *R in Action* on Kabacoff's website, [stat
 * Chapter 4. p. 197: 4.1, 4.3, 4.4, 4.9, 4.11, 4.15, 4.19, 4.22, 4.29, 4.33, 4.47
 * Chapter 5. p. 247: 5.2, 5.4, 5.5, 5.7, 5.9, 5.15, 5.17, 5.18, 5.21, 5.24, 5.33
 * Chapter 6. p. 298: 6.1, 6.5, 6.13, 6.16, 6.23, 6.26, 6.32, 6.37, 6.39, 6.42
-* Chapter 7. p. 330: 
+* Chapter 7. p. 330: 7.3, 7.6, 7.7, 7.13, 7.17, 7.19, 7.20, 7.24, 7.28
 
 ### Labs
 
