@@ -322,7 +322,7 @@ r ^ 2
 The mean score from 2012 accounts for 54.9% of the variance in the mean score from 2013 in math at grade 8.
 
 
-## Regerssion in R
+## Regression in R
 
 
 ```r

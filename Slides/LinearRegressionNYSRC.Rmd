@@ -148,7 +148,7 @@ r ^ 2
 The mean score from 2012 accounts for `r round(r^2 * 100, digits=1)`% of the variance in the mean score from 2013 in math at grade 8.
 
 
-## Regerssion in R
+## Regression in R
 
 ```{r}
 lm.out <- lm(Pass2013 ~ Pass2012, data=rc.albany)
