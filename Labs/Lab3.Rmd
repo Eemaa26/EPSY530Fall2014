@@ -34,7 +34,7 @@ mdims <- subset(bdims, bdims$sex == 1)
 fdims <- subset(bdims, bdims$sex == 0)
 ```
 
-*Exercise 1* Make a histogram of men’s heights and a histogram of women’s heights. How would you compare the various aspects of the two distributions?
+**Exercise 1** Make a histogram of men’s heights and a histogram of women’s heights. How would you compare the various aspects of the two distributions?
 
 
 ### The normal distribution
@@ -59,7 +59,7 @@ lines(x = x, y = y, col = "blue")
 
 After plotting the density histogram with the first command, we create the x- and y-coordinates for the normal curve. We chose the x range as 140 to 190 in order to span the entire range of fheight. To create y, we use dnorm to calculate the density of each of those x-values in a distribution that is normal with mean fhgtmean and standard deviation fhgtsd. The final command draws a curve on the existing plot (the density histogram) by connecting each of the points specified by x and y. The argument col simply sets the color for the line to be drawn. If we left it out, the line would be drawn in black.†
 
-*Exercise 2* Based on the this plot, does it appear that the data follow a nearly normal distribution?
+**Exercise 2** Based on the this plot, does it appear that the data follow a nearly normal distribution?
 
 
 
@@ -83,7 +83,7 @@ sim_norm <- rnorm(n = length(fdims$hgt), mean = fhgtmean, sd = fhgtsd)
 
 The first argument indicates how many numbers you’d like to generate, which we specify to be the same number of heights in the fdims data set using the length function. The last two arguments determine the mean and standard deviation of the normal distribution from which the simulated sample will be generated. We can take a look at the shape of our simulated data set, sim norm, as well as its normal probability plot.
 
-*Exercise 3* Make a normal probability plot of sim norm. Do all of the points fall on the line? How does this plot compare to the probability plot for the real data?
+**Exercise 3** Make a normal probability plot of sim norm. Do all of the points fall on the line? How does this plot compare to the probability plot for the real data?
 
 
 
@@ -94,11 +94,11 @@ Even better than comparing the original plot to a single plot generated from a n
 qqnormsim(fdims$hgt)
 ```
 
-*Exercise 4* Does the normal probability plot for fdims$hgt look similar to the plots created for the simulated data? That is, do plots provide evidence that the female heights are nearly normal?
+**Exercise 4** Does the normal probability plot for fdims$hgt look similar to the plots created for the simulated data? That is, do plots provide evidence that the female heights are nearly normal?
 
 
 
-*Exercise 5* Using the same technique, determine whether or not female weights appear to come from a normal distribution.
+**Exercise 5** Using the same technique, determine whether or not female weights appear to come from a normal distribution.
 
 
 
@@ -125,7 +125,7 @@ sum(fdims$hgt > 182)/length(fdims$hgt)
 
 Although the probabilities are not exactly the same, they are reasonably close. The closer that your distri- bution is to being normal, the more accurate the theoretical probabilities will be.
 
-*Exercise 6* Write out two probability questions that you would like to answer; one regarding female heights and one regarding female weights. Calculate the those probabilities using both the theoretical normal distribution as well as the empirical distribution (four probabilities in all). Which variable, height or weight, had a closer agreement between the two methods?
+**Exercise 6** Write out two probability questions that you would like to answer; one regarding female heights and one regarding female weights. Calculate the those probabilities using both the theoretical normal distribution as well as the empirical distribution (four probabilities in all). Which variable, height or weight, had a closer agreement between the two methods?
 
 
 
