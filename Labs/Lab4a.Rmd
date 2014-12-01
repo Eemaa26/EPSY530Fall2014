@@ -90,7 +90,7 @@ Here we use R to take 5000 samples of size 50 from the population, calculate the
 
 ```
 
-### Interlude: The `for` loop
+### Interlude: The for loop
 
 Let’s take a break from the statistics for a moment to let that last block of code sink in. You have just run your first for loop, a cornerstone of computer programming. The idea behind the for loop is iteration: it allows you to execute code as many times as you want without having to type out every iteration. In the case above, we wanted to iterate the two lines of code inside the curly braces that take a random sample of size 50 from area then save the mean of that sample into the sample means50 vector. Without the for loop, this would be painful:
 
